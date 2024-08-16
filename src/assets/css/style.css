@@ -1,0 +1,592 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+body {
+    background: rgb(255, 255, 255) url(../img/bkgd2.jpg) 50% 50% fixed no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/*body{ background:rgb(255,255,255) url(img/geometrico_1920x350.jpg) top center no-repeat fixed; margin: 0; padding: 0; font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif; }*/
+
+h1 {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgb(150, 0, 72);
+    font-size: 1.8em;
+    text-align: left;
+    font-weight: 300;
+}
+
+h2 {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgba(67, 18, 51, 1.00);
+    font-size: 1.3em;
+    text-align: left;
+    margin: 10px 0px;
+    font-weight: 300;
+}
+
+h2.footer {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgba(35, 35, 35, 1.00);
+    font-size: 1.3em;
+    text-align: left;
+}
+
+h3 {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgba(97, 98, 91, 1.00);
+    font-size: 1.2em;
+    text-align: left;
+    margin: 10px 0px;
+    font-weight: 300;
+}
+
+h3.focus3 {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    font-size: 1.5em;
+    border-left: 5px solid rgba(0, 254, 254, 1.00);
+    padding-left: 10px;
+}
+
+p, address {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgba(57, 57, 57, 1.00);
+    font-size: 1.0em;
+    font-weight: 300;
+    line-height: 185%;
+}
+
+p.date {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgba(100, 100, 100, 1.00);
+    font-size: 0.8em;
+    line-height: 100%;
+    text-align: left;
+    margin: 0px;
+}
+
+legend {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;;
+    color: rgba(76, 76, 76, 1.00);
+    font-size: 1.2em;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+ul li {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgba(57, 57, 57, 1.00);
+    font-size: 1.0em;
+    font-weight: 300;
+    line-height: 185%;
+}
+
+ol li {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgba(57, 57, 57, 1.00);
+    font-size: 1.0em;
+    font-weight: 300;
+    line-height: 185%;
+}
+
+a:link, a:active, a:visited {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgba(150, 0, 72, 1.00);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(128, 0, 72);
+}
+
+a.social:link, a.social:visited {
+    font-size: 1.5em;
+    color: rgb(136, 136, 136);
+    transition: 0.8s;
+}
+
+a.social:hover {
+    color: rgb(100, 100, 100);
+    transition: 0.8s;
+}
+
+.social {
+    float: left;
+    margin: 5px;
+    display: block;
+}
+
+a.footer:link, a.footer:active, a.footer:visited {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgba(135, 135, 135, 1.00);
+    font-size: 1.0em;
+    text-decoration: none;
+}
+
+a.footer:hover {
+    color: rgb(100, 100, 100);
+}
+
+input, textarea, select {
+    background: rgba(245, 245, 245, 1.00);
+    color: rgb(47, 47, 47);
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+    padding: 5px;
+    margin: 5px 0px;
+    border: rgba(145, 145, 145, 1.00) solid 1px;
+    width: 90%;
+    max-width: 500px;
+}
+
+input:hover, textarea:hover {
+    background: rgba(235, 235, 235, 1.00);
+    box-shadow: rgba(192, 218, 222, 1.0) 0px 0px 5px;
+}
+
+input.boton {
+    background: rgba(0, 254, 254, 1.00);
+    color: rgb(38, 37, 158, 1.00);
+    border: rgb(247, 247, 247);
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.85em;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    boder: none;
+    margin: 5px 10px;
+    width: auto;
+}
+
+input.boton:hover {
+    background: rgba(255, 255, 255, 1.00);
+    color: rgba(38, 37, 158, 1.00);
+}
+
+button {
+    background: rgba(100, 100, 100, 1.00);
+    color: rgb(255, 255, 255, 1.00);
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.85em;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 8px;
+    margin: 5px 0px;
+}
+
+button:hover {
+    background: rgba(255, 255, 255, 1.00);
+    color: rgba(100, 100, 100, 1.00);
+}
+
+.dependencias_boton {
+    width: 160px;
+    padding: 10px 10px 10px 25px;
+    margin: 10px;
+    float: left;
+    height: 65px;
+    background: linear-gradient(40deg, rgb(250, 250, 250, 1.00) 0%, rgb(225, 225, 225, 1.00) 100%);
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: rgba(135, 0, 65, 1.00);
+    box-shadow: rgba(0, 0, 0, 0.3) 2px 2px 2px;
+    border-left: rgb(128, 0, 72) solid 5px;
+}
+
+.dependencias_boton:hover {
+    background: linear-gradient(40deg, rgb(225, 225, 225, 1.00) 0%, rgb(250, 250, 250, 1.00) 100%);
+    box-shadow: rgba(0, 0, 0, 0.5) 3px 3px 3px;
+    border-left: rgba(150, 0, 72, 1.00) solid 5px;
+}
+
+.asuntos {
+    width: 90%;
+    max-width: 190px;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+    color: rgba(0, 0, 0, 1.0);
+    display: block;
+    text-align: left;
+    background: linear-gradient(40deg, rgb(250, 250, 250, 1.00) 0%, rgb(225, 225, 225, 1.00) 100%);
+    border-bottom: rgb(128, 0, 72) solid 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.0em;
+    font-weight: 300;
+    line-height: 120%;
+    height: 40px;
+}
+
+.asuntos:hover {
+    padding: 10px 12px 10px 8px;
+    background: linear-gradient(40deg, rgb(225, 225, 225, 1.00) 0%, rgb(250, 250, 250, 1.00) 100%);
+    border-bottom: rgba(102, 0, 57, 1.00) solid 5px;
+    box-shadow: rgba(100, 100, 100, 0.5) 2px 2px 3px;
+}
+
+.listado {
+    float: left;
+    background: rgb(150, 0, 72);
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
+    font-weight: 300;
+    padding: 2px 5px;
+    margin: 0px 5px;
+}
+
+
+/* TABLAS */
+table {
+    overflow-x: auto;
+    width: 100%;
+}
+
+table thead th {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.0em;
+    font-weight: 300;
+    color: #FFF;
+    background: rgb(128, 0, 72);
+    border: none;
+    padding: 0px 10px;
+    text-align: center;
+}
+
+table tr td {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.0em;
+    font-weight: 300;
+    color: rgba(0, 0, 0, 1.00);
+    border: none;
+    vertical-align: top;
+    padding: 5px;
+    text-align: center;
+}
+
+td.name {
+    color: #FFF;
+    background: rgba(100, 100, 100, 1.00);
+    font-size: 0.9em;
+    text-align: left;
+}
+
+table tfoot td {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: rgba(25, 75, 200, 1.00);
+    border: none;
+    color: rgba(255, 255, 255, 1.00);
+    font-weight: 300;
+    font-size: 1em;
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background: rgba(177, 177, 177, 0.30);
+}
+
+tr:nth-child(odd) {
+    background: rgba(177, 177, 177, 0.15);
+}
+
+.listado {
+    float: left;
+    background: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
+    font-weight: 300;
+    padding: 2px 5px;
+    margin: 0px 5px;
+}
+
+.event_desktop {
+    display: block;
+}
+
+.event_mobile {
+    display: none;
+}
+
+.hide {
+    display: none;
+    float: right;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: rgba(57, 57, 59, 1.00);
+    font-size: 0.9em;
+    width: 350px;
+    padding: 5px;
+    margin: -70px 0px;
+    border-radius: 20px;
+}
+
+.myDIV_anterior {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
+    background: rgba(165, 166, 168, 1.00);
+    color: rgb(255, 255, 255);
+    width: 210px;
+    margin: 15px auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.myDIV {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
+    background: rgb(137, 138, 141);
+    color: rgb(255, 255, 255);
+    width: 210px;
+    margin: 15px auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.myDIV:hover {
+    background: rgb(100, 100, 100);
+    padding: 10px 25px;
+    transition: 0.8s;
+}
+
+.myDIV:hover + .hide {
+    display: block;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.0em;
+    color: rgba(80, 80, 80, 1.00);
+}
+
+.dependencia {
+    background: rgba(230, 230, 230, 1.00);
+    padding: 5px 20px;
+    width: 90%;
+    margin: 5px auto;
+}
+
+.slider_txt {
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+    background: rgba(0, 50, 160, 0.72);
+    padding: 15px 15px 15px 15px;
+    height: 50px;
+    width: 450px;
+    color: rgb(255, 255, 255);
+    margin: 290px 0px 0px 500px;
+}
+
+/* LEGISLACION */
+.bloque_ley {
+    display: block;
+    padding: 15px 0px;
+    border-bottom: rgb(165, 165, 165) dotted 1px;
+}
+
+.bloque_ley:hover {
+    background: rgba(230, 230, 230, 1.00);
+    transition: 0.8s;
+}
+
+.icon_pdf {
+    float: left;
+    color: rgb(100, 100, 100);
+    margin: 0px 5px;
+    font-size: 1.8em;
+}
+
+.ley_name {
+    width: 85%;
+    max-width: 600px;
+    float: left;
+    margin: 5px;
+    text-align: left;
+}
+
+/* FIN LEGISLACION */
+
+#salto_menu {
+    clear: both;
+    display: block;
+}
+
+#slider1_container {
+    display: none;
+    position: absolute;
+    margin: auto;
+    top: 0px; /*left: 0px;*/
+    width: 960px;
+    height: 390px;
+    overflow: hidden;
+}
+
+#slides_size {
+    cursor: move;
+    width: 960px;
+    height: 390px;
+    overflow: hidden;
+}
+
+#socialbox {
+    min-width: 100px;
+    float: right;
+}
+
+#dialogo_banner {
+    width: max-content;
+    margin: auto;
+    background: linear-gradient(40deg, rgb(215, 215, 215, 1.00) 0%, rgb(245, 245, 245, 1.00) 100%);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#dialogo_banner:hover {
+    background: linear-gradient(50deg, rgb(235, 235, 235, 1.00) 0%, rgb(205, 205, 205, 1.00) 100%);
+}
+
+#contenido {
+    width: 90%;
+    max-width: 1080px;
+    margin: auto;
+    padding-top: 222px;
+    text-align: justify;
+}
+
+#contenido_left {
+    width: 95%;
+    max-width: 688px;
+    margin: 0px 10px;
+    float: left;
+    text-align: justify;
+}
+
+#noticias {
+    width: 100%;
+    max-width: 1260px;
+    margin: auto;
+    padding-top: 202px;
+}
+
+#texto {
+    width: 90%;
+    max-width: 960px;
+    text-align: justify;
+}
+
+#footer {
+    width: 90%;
+    padding: 80px 5% 30px;
+    margin-top: 0px;
+    background: rgba(255, 255, 255, 1.00) url(../img/bg_edificio.jpg) 50% 50% no-repeat;
+    background-size: cover;
+    text-align: left;
+}
+
+#input_buscador {
+    float: left;
+    width: 100%;
+    max-width: 280px;
+    border-radius: 25px;
+    padding: 12px;
+    font-size: 1.3em;
+}
+
+#boton_buscador {
+    float: right;
+    border-radius: 30px;
+    font-size: 1.3em;
+    padding: 15px 25px;
+}
+
+#responsive {
+    display: none;
+}
+
+#scrolldown {
+    display: block;
+}
+
+/* POP UP */
+.overlay {
+    width: 100%;
+    background: rgba(0, 0, 0, .75);
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.videoBox {
+    position: fixed;
+    width: 90%;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    padding: 20px;
+    background: #fff;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.videoBox video {
+    width: 100%;
+}
+
+
+
+.close:hover {
+    opacity: 1;
+}
+
+/* FIN POP UP */
+
+@media screen and (max-width: 1280px) {
+    #responsive {
+        display: block;
+    }
+
+    #scrolldown {
+        display: none;
+    }
+
+    #salto_menu {
+        display: none;
+    }
+}
+
+@media (min-width: 767px) {
+    .videoBox {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 670px) {
+    #salto_menu {
+        display: none;
+    }
+
+    #contenido {
+        padding-top: 95px;
+    }
+
+    #noticias {
+        padding-top: 95px;
+    }
+
+    .event_desktop {
+        display: block;
+    }
+
+    .event_mobile {
+        display: block;
+    }
+}

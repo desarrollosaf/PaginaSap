@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Estilo17 {
+	font-family: "Angsana New";
+	font-size: 36px;
+	color: #615E5D;
+	font-weight: bold;
+}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	background-color: #D6C499;
+}
+a:active {
+	text-decoration: none;
+}
+.Estilo16 {
+	font-size: 10px;
+	font-family: "Lucida Sans";
+	font-weight: bold;
+}
+
+.Estilo18 {
+	font-size: 14px;
+	font-family: "Lucida Sans";
+	font-weight: bold;
+	}
+	body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding-top: 0px;
+	align:center;
+	}
+#marco {
+	width:455px;
+	margin:10px 0;
+	padding:0px;
+	text-align:center;
+	}
+
+/*Credits: CSSplay */
+/*URL: http://www.cssplay.co.uk/menus/pro_drop2 */
+.preload2 { background:url(../images/bg/button4a2.gif)}
+.menu2 {
+	padding:0;
+	margin:0;
+	list-style:none;
+	height:30px;
+	background: #fff url(../images/bg/button41.gif) repeat-x;
+	position:relative;
+	font-family:arial, verdana, sans-serif;
+	width: 920px;
+}
+.menu2 li.top {
+	display:block;
+	float:left;
+	position:relative;
+	width: 90;
+}
+.menu2 li a.top_link {display:block; float:left; height:25px; margin-left:6px; line-height:25px; color:#1D4C38; text-decoration:none; font-size:11px; font-weight:bold; padding:0 0 0 6px; cursor:pointer;}
+.menu2 li a.top_link span { float:none; display:block; padding:0 10px 0 6px; height:40px;}
+.menu2 li a.top_link span.down {float:left; display:block; padding:0 10px 0 6px; height:25px;/*background:url(prodrop2/down.gif) no-repeat right top;*/}
+.menu2 li a.top_link:hover {color:#1D4C38;  background:url(../images/bg/button4a2.gif);}
+.menu2 li a.top_link:hover span { background:url(../images/bg/button4a2.gif)}
+.menu2 li a.top_link:hover span.down { background:url(../images/bg/button4a2.gif)}
+
+.menu2 li:hover > a.top_link {color:#1D4C38; background:url(../images/bg/button4a2.gif);}
+.menu2 li:hover > a.top_link span {background:url(../images/bg/button4a2.gif);}
+.menu2 li:hover > a.top_link span.down {background:url(../images/bg/button4a2.gif);}
+
+
+.menu2 table {border-collapse:collapse; width:0; height:0; position: relative; top:0; left:0; }
+
+/* Default link styling */
+
+/* Style the list OR link hover. Depends on which browser is used */
+
+.menu2 a:hover {visibility:visible;}
+.menu2 li:hover {position:relative; z-index:200;}
+
+/* keep the 'next' level invisible by placing it off screen. */
+.menu2 ul, 
+.menu2 :hover ul ul, 
+.menu2 :hover ul :hover ul ul,
+.menu2 :hover ul :hover ul :hover ul ul,
+.menu2 :hover ul :hover ul :hover ul :hover ul ul {position:absolute; left:-9999px; top:-9999px; width:0; height:0; margin:0; padding:0; list-style:none; }
+
+.menu2 :hover ul.sub {left:6px; top:25px; background: #fff; padding:0; /*border:1px solid #1E8BB5; white-space:nowrap;*/ width:auto; height:auto; font-weight:normal;}
+.menu2 :hover ul.sub li {display:block; /*height:20px; */position:relative; float:left; width:200px; border-bottom:1px solid #CBD6B1; border-left:1px solid #CBD6B1; border-right:1px solid #CBD6B1; margin-bottom:0;}
+.menu2 :hover ul.sub li a {display:block; height:auto; font-size:11px; padding:4px 3px; line-height:1; color:#1D4C38; text-decoration:none;}
+.menu2 :hover ul.sub li a.fly {background:#fff  url(../images/bg/button4a2.gif) no-repeat 150px 6px;}
+.menu2 :hover ul.sub li a:hover {background:#CBD6B1; color:#615E5D;}
+.menu2 :hover ul.sub li a.fly:hover {background:#CBD6B1 url(../images/bg/button4a2.gif) no-repeat 150px 6px;}
+.menu2 :hover ul li:hover > a.fly {background:#CBD6B1} 
+
+.menu2 :hover ul :hover ul,
+.menu2 :hover ul :hover ul :hover ul,
+.menu2 :hover ul :hover ul :hover ul :hover ul,
+.menu2 :hover ul :hover ul :hover ul :hover ul :hover ul
+{left:160px; top:-1px; background: #fff; padding:0; /* white-space:nowrap; */width:auto; z-index:300; height:auto;}
+.menu2 :hover ul.sub li ul {border-top:1px solid #615E5D; background: #fff; z-index:300;}
+
+.centro { }
+.shakeimage{
+position:relative
+}
+
+.clima{ float:left; width:5px;  }
+
+#contador, #comalis {
+	font-family:arial;
+	padding:1px;
+	text-align:center;
+	border:1px solid #ece7d1;
+	width:190px;
+	height: 10px;
+}
+#contador {font-size:10px;background-color:#ffffff; color:#4F4A21}
+#comalis {font-size:9px;background-color:#ece7d1;}
+#comalis a {color:#EBEFF2;text-decoration:none;}

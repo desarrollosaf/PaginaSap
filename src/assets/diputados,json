@@ -1,0 +1,2132 @@
+[
+    {
+        "id": "1e4e6703-13d5-4416-a7d0-78cab9d32dfb",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "c09c19ac-4590-48e7-9249-2a4ab0039a69",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "3a9d6f72-dca2-43b7-8664-d314ea71c981",
+        "diputado": {
+            "id": "c09c19ac-4590-48e7-9249-2a4ab0039a69",
+            "apaterno": "Aguilar",
+            "amaterno": "Talavera",
+            "nombres": "Karla Gabriela Esperanza",
+            "user_id": "ebf3be7c-ddbe-4641-943b-56b12be9fff0",
+            "user": {
+                "id": "ebf3be7c-ddbe-4641-943b-56b12be9fff0",
+                "email": "karla.aguilar@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "3a9d6f72-dca2-43b7-8664-d314ea71c981",
+            "distrito": "VII",
+            "municipio_id": "beaf02b7-8814-4bb3-be8a-72fa7a636f46",
+            "municipio": {
+                "id": "beaf02b7-8814-4bb3-be8a-72fa7a636f46",
+                "cabecera": "Tenancingo de Degollado"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "225ee8ac-c9f5-414b-b0ce-cdd951a6ec0b",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "f1512d4d-7a2c-4ee8-a7d8-78a84c224076",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "6c6e6cbf-6c1c-4729-bba2-01185960e9f8",
+        "diputado": {
+            "id": "f1512d4d-7a2c-4ee8-a7d8-78a84c224076",
+            "apaterno": "Aguirre",
+            "amaterno": "Cruz",
+            "nombres": "Emiliano",
+            "user_id": "ba34e2ce-4f46-4580-8375-2b79af48aece",
+            "user": {
+                "id": "ba34e2ce-4f46-4580-8375-2b79af48aece",
+                "email": "emiliano.aguirre@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "6c6e6cbf-6c1c-4729-bba2-01185960e9f8",
+            "distrito": "III",
+            "municipio_id": "2a1bae9a-4a42-4aa7-aff0-fc5d083e2ad1",
+            "municipio": {
+                "id": "2a1bae9a-4a42-4aa7-aff0-fc5d083e2ad1",
+                "cabecera": "Chimalhuacán"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "30a0dc10-d53b-4183-8df6-8b74176d8148",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "100849eb-0fd0-4955-a3ab-116ab14befba",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "2dce9e42-3fb7-417c-8830-4f15088c91d9",
+        "diputado": {
+            "id": "100849eb-0fd0-4955-a3ab-116ab14befba",
+            "apaterno": "Aldana",
+            "amaterno": "Duarte",
+            "nombres": "Elba",
+            "user_id": "20c79980-75b8-424d-bec8-37cc916ce02e",
+            "user": {
+                "id": "20c79980-75b8-424d-bec8-37cc916ce02e",
+                "email": "elba.aldana@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "2dce9e42-3fb7-417c-8830-4f15088c91d9",
+            "distrito": "VI",
+            "municipio_id": "5343f49e-e5c9-4f78-9b35-5fc4fd9001aa",
+            "municipio": {
+                "id": "5343f49e-e5c9-4f78-9b35-5fc4fd9001aa",
+                "cabecera": "Ecatepec de Morelos"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "79b99498-67e3-4040-9cd2-51979ba83107",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "5195100a-5682-4d5f-bfcb-f446664f5000",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "8fb8c12b-e0ec-439f-ae91-5760d5e18a00",
+        "diputado": {
+            "id": "5195100a-5682-4d5f-bfcb-f446664f5000",
+            "apaterno": "Álvarez",
+            "amaterno": "Jasso",
+            "nombres": "Braulio Antonio",
+            "user_id": "762dfe4e-c8ef-4e25-a74e-4bd13062330f",
+            "user": {
+                "id": "762dfe4e-c8ef-4e25-a74e-4bd13062330f",
+                "email": "braulio.alvarez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "8fb8c12b-e0ec-439f-ae91-5760d5e18a00",
+            "distrito": "II",
+            "municipio_id": "e3f34ec4-8f08-4ee9-92d9-967996b3540f",
+            "municipio": {
+                "id": "e3f34ec4-8f08-4ee9-92d9-967996b3540f",
+                "cabecera": "Toluca de Lerdo"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "d48573ce-390b-4cb9-bd68-776b6e9c29e2",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "ac73fc72-656e-4ea6-a0e6-49c827cb040a",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "ac73fc72-656e-4ea6-a0e6-49c827cb040a",
+            "apaterno": "Álvarez",
+            "amaterno": "Nemer",
+            "nombres": "Mónica Angélica",
+            "user_id": "5b5049c4-b9ad-479c-a77e-5bf8a77eea60",
+            "user": {
+                "id": "5b5049c4-b9ad-479c-a77e-5bf8a77eea60",
+                "email": "mantoluca34@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "f8822f02-076d-4ad0-80d3-4a32881f3d15",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "bea13554-cfa6-40e9-92da-72edd8e439d9",
+        "partido_id": "3ed5f80b-f675-4c0b-b922-f9bdadce0fe0",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "bea13554-cfa6-40e9-92da-72edd8e439d9",
+            "apaterno": "Barberena",
+            "amaterno": "Maldonado",
+            "nombres": "Silvia",
+            "user_id": "2c511687-781d-4d1f-a1db-0aba8a18c84f",
+            "user": {
+                "id": "2c511687-781d-4d1f-a1db-0aba8a18c84f",
+                "email": "silvia.barberena@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "3ed5f80b-f675-4c0b-b922-f9bdadce0fe0",
+            "siglas": "PT",
+            "nombre": "Partido del Trabajo",
+            "emblema": "storage/img/partidos/pt.svg",
+            "rgb": "193,41,55",
+            "rgb2": "242,230,64"
+        }
+    },
+    {
+        "id": "4b81bde0-d702-4ec5-bcfd-30cb14759f0a",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "f1d04dd5-2144-4072-bfe2-53e55af159bd",
+        "partido_id": "c6981a10-cc1f-4e3a-a08d-603485b0fc7c",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "f1d04dd5-2144-4072-bfe2-53e55af159bd",
+            "apaterno": "Bonilla",
+            "amaterno": "Jaime",
+            "nombres": "Juana",
+            "user_id": "29524eb7-92bf-4c56-9c0e-9521b12e693d",
+            "user": {
+                "id": "29524eb7-92bf-4c56-9c0e-9521b12e693d",
+                "email": "juana.bonilla@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "c6981a10-cc1f-4e3a-a08d-603485b0fc7c",
+            "siglas": "MC",
+            "nombre": "Partido Movimiento Ciudadano",
+            "emblema": "storage/img/partidos/mc.svg",
+            "rgb": "234,130,21",
+            "rgb2": "234,130,21"
+        }
+    },
+    {
+        "id": "6b6c3bbd-be15-4a66-b684-fe19d3619b2e",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "9c36783b-a93c-4823-8d49-9bedc66664c8",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "e38b0f75-44ff-4815-acf6-95c17acb3376",
+        "diputado": {
+            "id": "9c36783b-a93c-4823-8d49-9bedc66664c8",
+            "apaterno": "Buitrón",
+            "amaterno": "Hermida",
+            "nombres": "Jaime",
+            "user_id": "aaaa00c0-7d3f-480f-b83c-fb19e0ebf688",
+            "user": {
+                "id": "aaaa00c0-7d3f-480f-b83c-fb19e0ebf688",
+                "email": "jaime.buitron@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "e38b0f75-44ff-4815-acf6-95c17acb3376",
+            "distrito": "XIX",
+            "municipio_id": "096ee25a-75c1-4cab-a404-2967464aff7f",
+            "municipio": {
+                "id": "096ee25a-75c1-4cab-a404-2967464aff7f",
+                "cabecera": "Santa María Tultepec"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "72150b6a-01ed-468c-8adf-30dd88d810e3",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "7b8d5d31-2f65-45d7-a00f-a6b29185bf34",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "6d52e4b8-93d2-4b89-be54-acd8c05f88ca",
+        "diputado": {
+            "id": "7b8d5d31-2f65-45d7-a00f-a6b29185bf34",
+            "apaterno": "Burgos",
+            "amaterno": "Hernández",
+            "nombres": "Anais Miriam",
+            "user_id": "8fea020e-46ab-4bb9-b25d-61d0e4545d24",
+            "user": {
+                "id": "8fea020e-46ab-4bb9-b25d-61d0e4545d24",
+                "email": "anais.burgos@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "6d52e4b8-93d2-4b89-be54-acd8c05f88ca",
+            "distrito": "I",
+            "municipio_id": "f424f76c-4a7d-4fad-bd76-4053ead4dc7c",
+            "municipio": {
+                "id": "f424f76c-4a7d-4fad-bd76-4053ead4dc7c",
+                "cabecera": "Chalco de Díaz Covarrubias"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "43b04c09-66d1-4fba-9832-febe92780527",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "e0378ee1-f01c-493e-9d70-2ba23cd9e359",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "ca7ced8a-37d1-40d7-9523-1d10b0c9b08c",
+        "diputado": {
+            "id": "e0378ee1-f01c-493e-9d70-2ba23cd9e359",
+            "apaterno": "Cárdenas",
+            "amaterno": "Rojas",
+            "nombres": "Myriam",
+            "user_id": "dab05641-ecdf-45e0-8fd2-530c4eefb0c2",
+            "user": {
+                "id": "dab05641-ecdf-45e0-8fd2-530c4eefb0c2",
+                "email": "myriam.cardenas@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "ca7ced8a-37d1-40d7-9523-1d10b0c9b08c",
+            "distrito": "XLV",
+            "municipio_id": "99e3b329-8a5e-426a-b7d8-1a96591ca30d",
+            "municipio": {
+                "id": "99e3b329-8a5e-426a-b7d8-1a96591ca30d",
+                "cabecera": "Villa de Almoloya de Juárez"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "90b6971c-3eb8-486e-ba7f-945293155f32",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "0991525b-0bb4-40bb-85c4-23d499725693",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "a308aeda-b86d-488d-9004-714078907ad3",
+        "diputado": {
+            "id": "0991525b-0bb4-40bb-85c4-23d499725693",
+            "apaterno": "Castelán",
+            "amaterno": "Mondragón",
+            "nombres": "María Elida",
+            "user_id": "fa924827-536d-4d07-a447-40f7618422e0",
+            "user": {
+                "id": "fa924827-536d-4d07-a447-40f7618422e0",
+                "email": "elida.castelan@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "a308aeda-b86d-488d-9004-714078907ad3",
+            "distrito": "IX",
+            "municipio_id": "0dca1cb3-8611-429a-b647-1e7992fae322",
+            "municipio": {
+                "id": "0dca1cb3-8611-429a-b647-1e7992fae322",
+                "cabecera": "Tejupilco de Hidalgo"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "8d69867b-6003-4833-b8ba-d0fe317beeee",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "880cc8d0-e6fd-4f6b-bade-7a00b304c9cb",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "ff9c76bd-52d6-47c9-a95f-39a6cce0f29c",
+        "diputado": {
+            "id": "880cc8d0-e6fd-4f6b-bade-7a00b304c9cb",
+            "apaterno": "Cervantes",
+            "amaterno": "Sánchez",
+            "nombres": "Jaime",
+            "user_id": "97a9f07d-ca8b-4443-8f1d-a9b34295fd77",
+            "user": {
+                "id": "97a9f07d-ca8b-4443-8f1d-a9b34295fd77",
+                "email": "jaime.cervantes@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "ff9c76bd-52d6-47c9-a95f-39a6cce0f29c",
+            "distrito": "IV",
+            "municipio_id": "17a84877-fa22-43d3-b176-a36da3a345f3",
+            "municipio": {
+                "id": "17a84877-fa22-43d3-b176-a36da3a345f3",
+                "cabecera": "Lerma de Villada"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "a510813c-9c32-4b89-81df-7361b674d304",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "a19b2c5b-6b66-4c9d-b190-c426976703b4",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "1055c6c8-b457-4720-893a-88e5c3b13a14",
+        "diputado": {
+            "id": "a19b2c5b-6b66-4c9d-b190-c426976703b4",
+            "apaterno": "Cisneros",
+            "amaterno": "Coss",
+            "nombres": "Azucena",
+            "user_id": "d9503d00-ca39-49ac-8615-a78c4fd2f301",
+            "user": {
+                "id": "d9503d00-ca39-49ac-8615-a78c4fd2f301",
+                "email": "azucena.cisneros@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "1055c6c8-b457-4720-893a-88e5c3b13a14",
+            "distrito": "VIII",
+            "municipio_id": "5343f49e-e5c9-4f78-9b35-5fc4fd9001aa",
+            "municipio": {
+                "id": "5343f49e-e5c9-4f78-9b35-5fc4fd9001aa",
+                "cabecera": "Ecatepec de Morelos"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "1e12ef8a-fcf5-41b1-bba3-ab1710c1bc6d",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "c9c3febb-f33b-4284-960a-d3169b04ac74",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "c9c3febb-f33b-4284-960a-d3169b04ac74",
+            "apaterno": "Correa",
+            "amaterno": "Hernández",
+            "nombres": "Max Agustín",
+            "user_id": "980c884e-5ed8-4e58-ad9c-8523e231cc32",
+            "user": {
+                "id": "980c884e-5ed8-4e58-ad9c-8523e231cc32",
+                "email": "max.correa@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "126aff0d-f940-42db-a0bb-74f29ff68eb3",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "60caaec9-7791-4724-945e-10f404618b19",
+        "partido_id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+        "distrito_id": "8bfd3c99-e9b1-447d-b0e0-15ee70cf0f57",
+        "diputado": {
+            "id": "60caaec9-7791-4724-945e-10f404618b19",
+            "apaterno": "Cortés",
+            "amaterno": "Lugo",
+            "nombres": "Román Francisco",
+            "user_id": "f2ab9210-0247-4d59-87f7-2a6e999eb5ce",
+            "user": {
+                "id": "f2ab9210-0247-4d59-87f7-2a6e999eb5ce",
+                "email": "roman.cortes@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "8bfd3c99-e9b1-447d-b0e0-15ee70cf0f57",
+            "distrito": "XVI",
+            "municipio_id": "5f078724-b242-4d7b-83c1-37fcda21cabb",
+            "municipio": {
+                "id": "5f078724-b242-4d7b-83c1-37fcda21cabb",
+                "cabecera": "Ciudad Adolfo López Mateos"
+            }
+        },
+        "partido": {
+            "id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+            "siglas": "PAN",
+            "nombre": "Partido Acción Nacional",
+            "emblema": "storage/img/partidos/pan.svg",
+            "rgb": "0,63,162",
+            "rgb2": "101,150,204"
+        }
+    },
+    {
+        "id": "15a0c0b2-c436-40db-bb0d-9bb38af08ee6",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "b2f2e045-241b-4b79-bd65-219bc9aed76a",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "65aff2ea-0485-47fe-b819-ba6a19ef38b4",
+        "diputado": {
+            "id": "b2f2e045-241b-4b79-bd65-219bc9aed76a",
+            "apaterno": "Cruz",
+            "amaterno": "Cruz",
+            "nombres": "Marco Antonio",
+            "user_id": "5355f794-c412-4807-80a4-41a3f818d73f",
+            "user": {
+                "id": "5355f794-c412-4807-80a4-41a3f818d73f",
+                "email": "marco.cruz@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "65aff2ea-0485-47fe-b819-ba6a19ef38b4",
+            "distrito": "XII",
+            "municipio_id": "c257b1a8-fd4e-4ad3-9429-443f58301d7a",
+            "municipio": {
+                "id": "c257b1a8-fd4e-4ad3-9429-443f58301d7a",
+                "cabecera": "Teoloyucan"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "73624370-07b7-4932-abae-d3456fe0f925",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "68eb7745-ed10-46e1-9915-44f8f12f43e0",
+        "partido_id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "68eb7745-ed10-46e1-9915-44f8f12f43e0",
+            "apaterno": "Dávila",
+            "amaterno": "Vargas",
+            "nombres": "María de los Ángeles",
+            "user_id": "9fdaf015-3503-4c6c-8a6b-d7dc7ed3d599",
+            "user": {
+                "id": "9fdaf015-3503-4c6c-8a6b-d7dc7ed3d599",
+                "email": "angeles.davila@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+            "siglas": "PAN",
+            "nombre": "Partido Acción Nacional",
+            "emblema": "storage/img/partidos/pan.svg",
+            "rgb": "0,63,162",
+            "rgb2": "101,150,204"
+        }
+    },
+    {
+        "id": "c5563a1d-7f54-45fc-9952-06b58bf22bb3",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "caec3996-75db-41d6-928b-e056b22a25b6",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "b32914fe-90db-4b47-927c-a21a032172bc",
+        "diputado": {
+            "id": "caec3996-75db-41d6-928b-e056b22a25b6",
+            "apaterno": "De la Cruz",
+            "amaterno": "Pérez",
+            "nombres": "Faustino",
+            "user_id": "6d3cdd8e-f495-4f0a-80c1-a72b93c3c384",
+            "user": {
+                "id": "6d3cdd8e-f495-4f0a-80c1-a72b93c3c384",
+                "email": "faustino.delacruz@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "b32914fe-90db-4b47-927c-a21a032172bc",
+            "distrito": "XXI",
+            "municipio_id": "5343f49e-e5c9-4f78-9b35-5fc4fd9001aa",
+            "municipio": {
+                "id": "5343f49e-e5c9-4f78-9b35-5fc4fd9001aa",
+                "cabecera": "Ecatepec de Morelos"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "f3f45b38-12b8-4f06-a6ab-9a1b770b17bf",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "ca9ec8e2-3856-4cbd-bc25-e59008d78d7e",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "ca9ec8e2-3856-4cbd-bc25-e59008d78d7e",
+            "apaterno": "Delgado",
+            "amaterno": "Flores",
+            "nombres": "Lourdes Jezabel",
+            "user_id": "d24cab2c-335f-4980-ac84-b13671dd38e8",
+            "user": {
+                "id": "d24cab2c-335f-4980-ac84-b13671dd38e8",
+                "email": "lourdes.delgado@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "9ea80af7-3334-4f4f-a73c-429a7da0416a",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "1d3fba7b-8e7f-43d3-9bfb-bf3ecab0729a",
+        "partido_id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "1d3fba7b-8e7f-43d3-9bfb-bf3ecab0729a",
+            "apaterno": "Escalona",
+            "amaterno": "Piña",
+            "nombres": "Miriam",
+            "user_id": "b13544a7-1c94-48e5-abd9-a435a4fa16bc",
+            "user": {
+                "id": "b13544a7-1c94-48e5-abd9-a435a4fa16bc",
+                "email": "miriam.escalona@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+            "siglas": "PAN",
+            "nombre": "Partido Acción Nacional",
+            "emblema": "storage/img/partidos/pan.svg",
+            "rgb": "0,63,162",
+            "rgb2": "101,150,204"
+        }
+    },
+    {
+        "id": "67892d17-ac7a-486f-9d63-3495ef821b1e",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "17a171ca-564e-49f9-a5a8-76895086c008",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "30238c0e-f05a-47cc-a5e1-d7b6d1ba7adb",
+        "diputado": {
+            "id": "17a171ca-564e-49f9-a5a8-76895086c008",
+            "apaterno": "Esquer",
+            "amaterno": "Cruz",
+            "nombres": "Iván de Jesús",
+            "user_id": "97a059ec-e551-4902-93f8-b1abc260d82a",
+            "user": {
+                "id": "97a059ec-e551-4902-93f8-b1abc260d82a",
+                "email": "ivan.esquer@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "30238c0e-f05a-47cc-a5e1-d7b6d1ba7adb",
+            "distrito": "XIII",
+            "municipio_id": "bc1d1e6a-c67d-46a6-90c6-03feda95e057",
+            "municipio": {
+                "id": "bc1d1e6a-c67d-46a6-90c6-03feda95e057",
+                "cabecera": "Atlacomulco de Fabela"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "d57506a1-4a18-470b-b85d-53f7eaf168f5",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "6878cb99-4f8f-4778-a10c-aafc15e2ac4e",
+        "partido_id": "c1fdb97c-2880-4268-8789-6a95d3769092",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "6878cb99-4f8f-4778-a10c-aafc15e2ac4e",
+            "apaterno": "Fuentes",
+            "amaterno": "Cruz",
+            "nombres": "Viridiana",
+            "user_id": "e3c1edaf-481b-4c1d-a313-6c2840baefc6",
+            "user": {
+                "id": "e3c1edaf-481b-4c1d-a313-6c2840baefc6",
+                "email": "viridiana.fuentes@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "c1fdb97c-2880-4268-8789-6a95d3769092",
+            "siglas": "PRD",
+            "nombre": "Partido de la Revolución Democrática",
+            "emblema": "storage/img/partidos/prd.svg",
+            "rgb": "240,206,21",
+            "rgb2": "240,206,21"
+        }
+    },
+    {
+        "id": "aa4af1ea-ae7c-4ec1-8bec-df79fb5746d1",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "fcbbd135-52bd-47df-a031-a13c4394b15f",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "e12988ab-3103-49f3-b1ec-f8790c35514b",
+        "diputado": {
+            "id": "fcbbd135-52bd-47df-a031-a13c4394b15f",
+            "apaterno": "Galicia",
+            "amaterno": "Salceda",
+            "nombres": "Adrián Manuel",
+            "user_id": "ed66c2eb-096f-4785-b49d-d198051cb48e",
+            "user": {
+                "id": "ed66c2eb-096f-4785-b49d-d198051cb48e",
+                "email": "adrian.galicia@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "e12988ab-3103-49f3-b1ec-f8790c35514b",
+            "distrito": "V",
+            "municipio_id": "0b65dbb1-eaa2-487a-af14-0ae2b8017bfa",
+            "municipio": {
+                "id": "0b65dbb1-eaa2-487a-af14-0ae2b8017bfa",
+                "cabecera": "Chicoloapan de Juárez"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "2f831dcd-08c1-4b56-af9f-f1cd88266225",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "eea770cb-6f56-46f1-aa08-4ca46cd23fdb",
+        "partido_id": "3ed5f80b-f675-4c0b-b922-f9bdadce0fe0",
+        "distrito_id": "a1b27db8-57fa-4f29-b962-08af2ae962d6",
+        "diputado": {
+            "id": "eea770cb-6f56-46f1-aa08-4ca46cd23fdb",
+            "apaterno": "García",
+            "amaterno": "Sosa",
+            "nombres": "Sergio",
+            "user_id": "d23891db-8f77-4ab0-8f14-a09be7b75ad7",
+            "user": {
+                "id": "d23891db-8f77-4ab0-8f14-a09be7b75ad7",
+                "email": "sergio.garcia@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "a1b27db8-57fa-4f29-b962-08af2ae962d6",
+            "distrito": "XLIV",
+            "municipio_id": "cc33c20b-e755-4e14-8597-074ddcac4e2f",
+            "municipio": {
+                "id": "cc33c20b-e755-4e14-8597-074ddcac4e2f",
+                "cabecera": "Villa Nicolás Romero"
+            }
+        },
+        "partido": {
+            "id": "3ed5f80b-f675-4c0b-b922-f9bdadce0fe0",
+            "siglas": "PT",
+            "nombre": "Partido del Trabajo",
+            "emblema": "storage/img/partidos/pt.svg",
+            "rgb": "193,41,55",
+            "rgb2": "242,230,64"
+        }
+    },
+    {
+        "id": "815952e2-73e0-42b5-8966-0ba2761761ab",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "45f31f79-185a-4b84-8c56-cac9aeafbbe7",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "80257d09-c562-4ea3-b8bb-ede53bf94f1b",
+        "diputado": {
+            "id": "45f31f79-185a-4b84-8c56-cac9aeafbbe7",
+            "apaterno": "García",
+            "amaterno": "Villegas",
+            "nombres": "Beatriz",
+            "user_id": "2dd38cd4-d35f-40d3-a423-36a8fe7b5171",
+            "user": {
+                "id": "2dd38cd4-d35f-40d3-a423-36a8fe7b5171",
+                "email": "beatriz.garcia@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "80257d09-c562-4ea3-b8bb-ede53bf94f1b",
+            "distrito": "XXVIII",
+            "municipio_id": "b7dec81f-af44-4596-9591-2f70e997be6f",
+            "municipio": {
+                "id": "b7dec81f-af44-4596-9591-2f70e997be6f",
+                "cabecera": "Amecameca de Juárez"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "0faa5846-a2b2-464f-ba86-8d3514b2fbec",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "655be3d5-8c6c-44fc-9ea4-0f2af6c71e57",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "655be3d5-8c6c-44fc-9ea4-0f2af6c71e57",
+            "apaterno": "González",
+            "amaterno": "Aguirre",
+            "nombres": "Gretel",
+            "user_id": "4e3a68a4-ca48-46a9-a4a6-f991290e2e5a",
+            "user": {
+                "id": "4e3a68a4-ca48-46a9-a4a6-f991290e2e5a",
+                "email": "gretel.gonzalez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "58c03331-0393-44b4-9745-b3a3510bcff4",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "fcf14419-8255-4464-9dc7-0fe5cf5277f3",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "4b10d778-892d-4949-a014-282a6d579bed",
+        "diputado": {
+            "id": "fcf14419-8255-4464-9dc7-0fe5cf5277f3",
+            "apaterno": "González",
+            "amaterno": "Ledezma",
+            "nombres": "Aurora",
+            "user_id": "3bacf35a-dc5d-46a3-b66b-dcf1dc502718",
+            "user": {
+                "id": "3bacf35a-dc5d-46a3-b66b-dcf1dc502718",
+                "email": "aurora.gonzalez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "4b10d778-892d-4949-a014-282a6d579bed",
+            "distrito": "XIV",
+            "municipio_id": "939d8a17-ab0f-4a24-a00f-cc556d99defc",
+            "municipio": {
+                "id": "939d8a17-ab0f-4a24-a00f-cc556d99defc",
+                "cabecera": "Jilotepec de Andrés Molina Enríquez"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "cdcdbf33-ea2d-4e5c-9154-f40919ee7473",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "8a68f9ee-462b-494f-928d-200dfb2a58e7",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "72dd7c9e-38ff-4221-8301-246354ef1ce3",
+        "diputado": {
+            "id": "8a68f9ee-462b-494f-928d-200dfb2a58e7",
+            "apaterno": "González",
+            "amaterno": "Bautista",
+            "nombres": "Valentín",
+            "user_id": "d0aa855e-e4d3-4943-aef0-9339ebecdd9d",
+            "user": {
+                "id": "d0aa855e-e4d3-4943-aef0-9339ebecdd9d",
+                "email": "valentin.gonzalez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "72dd7c9e-38ff-4221-8301-246354ef1ce3",
+            "distrito": "XXIV",
+            "municipio_id": "19f4ca11-7638-4ad5-a2e5-284f92746328",
+            "municipio": {
+                "id": "19f4ca11-7638-4ad5-a2e5-284f92746328",
+                "cabecera": "Ciudad Nezahualcóyotl"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "b82cb263-3d5a-4549-a310-4d02e0447317",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "9474781f-930b-47e1-9f9c-a6d5aea6d56a",
+        "partido_id": "c1fdb97c-2880-4268-8789-6a95d3769092",
+        "distrito_id": "2a58ba23-0f49-4c4a-a5ab-cc1316960da9",
+        "diputado": {
+            "id": "9474781f-930b-47e1-9f9c-a6d5aea6d56a",
+            "apaterno": "González",
+            "amaterno": "Mejía",
+            "nombres": "Fernando",
+            "user_id": "865c1497-3331-4ed3-b5ce-f721f24e0271",
+            "user": {
+                "id": "865c1497-3331-4ed3-b5ce-f721f24e0271",
+                "email": "fernando.gonzalez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "2a58ba23-0f49-4c4a-a5ab-cc1316960da9",
+            "distrito": "XXXI",
+            "municipio_id": "d37af5bc-e06d-4f6b-9d90-36778bf5eea8",
+            "municipio": {
+                "id": "d37af5bc-e06d-4f6b-9d90-36778bf5eea8",
+                "cabecera": "Los Reyes Acaquilpan"
+            }
+        },
+        "partido": {
+            "id": "c1fdb97c-2880-4268-8789-6a95d3769092",
+            "siglas": "PRD",
+            "nombre": "Partido de la Revolución Democrática",
+            "emblema": "storage/img/partidos/prd.svg",
+            "rgb": "240,206,21",
+            "rgb2": "240,206,21"
+        }
+    },
+    {
+        "id": "4b7dee99-588e-476f-9002-eb57265fc5f8",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "5c4b590a-c8ee-47ca-b980-6c96601a5ceb",
+        "partido_id": "d473bf09-668a-4c52-ae5d-9e14621bb693",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "5c4b590a-c8ee-47ca-b980-6c96601a5ceb",
+            "apaterno": "Granillo",
+            "amaterno": "Velazco",
+            "nombres": "Mónica Miriam",
+            "user_id": "d282ab34-1ac0-4b79-b4c5-df9bcde5bc37",
+            "user": {
+                "id": "d282ab34-1ac0-4b79-b4c5-df9bcde5bc37",
+                "email": "monica.granillo@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "d473bf09-668a-4c52-ae5d-9e14621bb693",
+            "siglas": "Sin partido",
+            "nombre": "",
+            "emblema": "storage/img/partidos/sin_partido.svg",
+            "rgb": "124,124,122",
+            "rgb2": "124,124,122"
+        }
+    },
+    {
+        "id": "ddd05fed-6ca9-431f-a987-f96101320b27",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "2d1f1300-c293-48a4-8e31-9164798cbd06",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "aa6e3871-e1ba-4d08-a15e-8210dd138a2c",
+        "diputado": {
+            "id": "2d1f1300-c293-48a4-8e31-9164798cbd06",
+            "apaterno": "Gutiérrez",
+            "amaterno": "Martínez",
+            "nombres": "Nazario",
+            "user_id": "a57f7ebe-0c97-47d0-9e6d-71959987081a",
+            "user": {
+                "id": "a57f7ebe-0c97-47d0-9e6d-71959987081a",
+                "email": "nazario.gutierrez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "aa6e3871-e1ba-4d08-a15e-8210dd138a2c",
+            "distrito": "XXIII",
+            "municipio_id": "5e3d56ab-08d9-4637-94bc-df015a9e0ef0",
+            "municipio": {
+                "id": "5e3d56ab-08d9-4637-94bc-df015a9e0ef0",
+                "cabecera": "Texcoco de Mora"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "af0bc6e6-60b0-4ce4-9b88-35d858934df9",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "f7e3c33b-dd66-433d-81f2-d51ea00b3ce2",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "4a7478c3-bdda-41fa-8501-264e206a2c46",
+        "diputado": {
+            "id": "f7e3c33b-dd66-433d-81f2-d51ea00b3ce2",
+            "apaterno": "Hernández",
+            "amaterno": "González",
+            "nombres": "Maurilio",
+            "user_id": "355c7817-eef7-4f1e-8d5d-a8a8fa6d6154",
+            "user": {
+                "id": "355c7817-eef7-4f1e-8d5d-a8a8fa6d6154",
+                "email": "maurilio.hernandez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "4a7478c3-bdda-41fa-8501-264e206a2c46",
+            "distrito": "XI",
+            "municipio_id": "b86c8349-8276-4bfc-a021-be58a2216b00",
+            "municipio": {
+                "id": "b86c8349-8276-4bfc-a021-be58a2216b00",
+                "cabecera": "Tultitlán de Mariano Escobedo"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "919282ee-762a-45c3-bcc0-50a70c49b073",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "fbfecd09-2046-4a22-a073-333ce05a1755",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "fbfecd09-2046-4a22-a073-333ce05a1755",
+            "apaterno": "Hernández",
+            "amaterno": "Bermúdez",
+            "nombres": "Luz Ma.",
+            "user_id": "bfd4f7ed-0622-40d3-84f1-8d33bf8c957d",
+            "user": {
+                "id": "bfd4f7ed-0622-40d3-84f1-8d33bf8c957d",
+                "email": "luz.hernandez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "7518a990-b924-41f7-92af-b76144f8d4d9",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "28424365-125e-4394-b6a3-c67fd0fee302",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "28424365-125e-4394-b6a3-c67fd0fee302",
+            "apaterno": "Izquierdo",
+            "amaterno": "Rojas",
+            "nombres": "Jesús Gerardo",
+            "user_id": "b8a80663-071f-4b27-b02b-dadd39933a69",
+            "user": {
+                "id": "b8a80663-071f-4b27-b02b-dadd39933a69",
+                "email": "jesus.izquierdo@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "201b7f7d-df31-4a38-bf38-e4376af6a608",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "f092f86e-b1aa-45cd-8477-1cf39532358d",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "40a37011-f4fc-4385-915c-29cbb050204c",
+        "diputado": {
+            "id": "f092f86e-b1aa-45cd-8477-1cf39532358d",
+            "apaterno": "Jacob",
+            "amaterno": "Rocha",
+            "nombres": "Enrique Edgardo",
+            "user_id": "884ffb07-6bb6-437e-ba23-c5cc17854793",
+            "user": {
+                "id": "884ffb07-6bb6-437e-ba23-c5cc17854793",
+                "email": "enrique.jacob@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "40a37011-f4fc-4385-915c-29cbb050204c",
+            "distrito": "XXX",
+            "municipio_id": "32ed6411-68e3-4fd4-af65-52bdc01ec57e",
+            "municipio": {
+                "id": "32ed6411-68e3-4fd4-af65-52bdc01ec57e",
+                "cabecera": "Naucalpan de Juárez"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "6d1742cd-1d56-4909-9be9-09895ac0ee66",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "0c23a3c0-e26f-49f8-805d-39f3824362d2",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "16877ad1-7fbd-45e5-9256-68ee7e13ec9e",
+        "diputado": {
+            "id": "0c23a3c0-e26f-49f8-805d-39f3824362d2",
+            "apaterno": "Jiménez",
+            "amaterno": "Hernández",
+            "nombres": "Paola",
+            "user_id": "ad866717-3878-479f-915b-510836953c11",
+            "user": {
+                "id": "ad866717-3878-479f-915b-510836953c11",
+                "email": "paola.jimenez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "16877ad1-7fbd-45e5-9256-68ee7e13ec9e",
+            "distrito": "XXXVI",
+            "municipio_id": "dcfad968-60fa-4ebf-b899-69052801e0af",
+            "municipio": {
+                "id": "dcfad968-60fa-4ebf-b899-69052801e0af",
+                "cabecera": "San Miguel Zinacantepec"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "d8aead9b-9a94-42df-a2cb-c35a836a80ec",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "f44037ba-fd4f-4c10-81c6-27e1208326e5",
+        "partido_id": "d473bf09-668a-4c52-ae5d-9e14621bb693",
+        "distrito_id": "cfba699c-c5ad-47f3-b575-a3e8ce102575",
+        "diputado": {
+            "id": "f44037ba-fd4f-4c10-81c6-27e1208326e5",
+            "apaterno": "Juárez",
+            "amaterno": "Jiménez",
+            "nombres": "Alonso Adrián",
+            "user_id": "27bed977-46a9-4dcc-99d0-44bafaa99595",
+            "user": {
+                "id": "27bed977-46a9-4dcc-99d0-44bafaa99595",
+                "email": "alonso.juarez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "cfba699c-c5ad-47f3-b575-a3e8ce102575",
+            "distrito": "XVIII",
+            "municipio_id": "2b57ccea-efec-45a7-a7e9-811a30937611",
+            "municipio": {
+                "id": "2b57ccea-efec-45a7-a7e9-811a30937611",
+                "cabecera": "Tlalnepantla"
+            }
+        },
+        "partido": {
+            "id": "d473bf09-668a-4c52-ae5d-9e14621bb693",
+            "siglas": "Sin partido",
+            "nombre": "",
+            "emblema": "storage/img/partidos/sin_partido.svg",
+            "rgb": "124,124,122",
+            "rgb2": "124,124,122"
+        }
+    },
+    {
+        "id": "e4ecc6a1-92f3-48aa-8843-ae57b9f401d4",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "39a640ce-0c22-4ab1-b8cd-4a1562af72f5",
+        "partido_id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+        "distrito_id": "a1518ed6-d592-4718-bc1a-3a241cfae074",
+        "diputado": {
+            "id": "39a640ce-0c22-4ab1-b8cd-4a1562af72f5",
+            "apaterno": "Lamas",
+            "amaterno": "Pombo",
+            "nombres": "Gerardo",
+            "user_id": "ba9bbc19-3252-4d5b-bed5-bd052e2331c6",
+            "user": {
+                "id": "ba9bbc19-3252-4d5b-bed5-bd052e2331c6",
+                "email": "gerardo.lamas@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "a1518ed6-d592-4718-bc1a-3a241cfae074",
+            "distrito": "XXXIV",
+            "municipio_id": "e3f34ec4-8f08-4ee9-92d9-967996b3540f",
+            "municipio": {
+                "id": "e3f34ec4-8f08-4ee9-92d9-967996b3540f",
+                "cabecera": "Toluca de Lerdo"
+            }
+        },
+        "partido": {
+            "id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+            "siglas": "PAN",
+            "nombre": "Partido Acción Nacional",
+            "emblema": "storage/img/partidos/pan.svg",
+            "rgb": "0,63,162",
+            "rgb2": "101,150,204"
+        }
+    },
+    {
+        "id": "c7c0543f-1dae-4775-a19a-1ca9205b0c6e",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "fde440e7-e519-4682-bf63-1f7ccee02f04",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "fde440e7-e519-4682-bf63-1f7ccee02f04",
+            "apaterno": "Mercado",
+            "amaterno": "Torres",
+            "nombres": "Edith Marisol",
+            "user_id": "e0d63a04-023a-410d-8186-e7034bd87db3",
+            "user": {
+                "id": "e0d63a04-023a-410d-8186-e7034bd87db3",
+                "email": "edith.mercado@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "e900a9a0-2712-4fdc-b01d-d018071c37bc",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "248c3ed2-099f-4b5c-aada-a1f7f2e203e5",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "248c3ed2-099f-4b5c-aada-a1f7f2e203e5",
+            "apaterno": "Mercado",
+            "amaterno": "Moreno",
+            "nombres": "Alicia",
+            "user_id": "06b0ccda-c42e-4a8d-a7f3-346deae5dd9a",
+            "user": {
+                "id": "06b0ccda-c42e-4a8d-a7f3-346deae5dd9a",
+                "email": "alicia.mercado@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "c3789849-67bf-4238-a58f-8e774f3311eb",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "677521d0-d477-445e-8295-6ef7033a9b36",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "677521d0-d477-445e-8295-6ef7033a9b36",
+            "apaterno": "Montoya",
+            "amaterno": "Márquez",
+            "nombres": "Isaac Martín",
+            "user_id": "764f5d4b-531d-4594-a307-f839c691d5ff",
+            "user": {
+                "id": "764f5d4b-531d-4594-a307-f839c691d5ff",
+                "email": "isaac.montoya@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "eb1ff325-a7fb-4985-a842-a2845c32d46c",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "e64fd1ea-64a0-4f6e-b8da-a1cd9c93f6f0",
+        "partido_id": "1342c104-d5ec-4eda-b5ca-7d653b440a5e",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "e64fd1ea-64a0-4f6e-b8da-a1cd9c93f6f0",
+            "apaterno": "Morales",
+            "amaterno": "Robledo",
+            "nombres": "Claudia Desiree",
+            "user_id": "c4399382-e9df-41e7-8bd8-764677071b31",
+            "user": {
+                "id": "c4399382-e9df-41e7-8bd8-764677071b31",
+                "email": "claudia.morales@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "1342c104-d5ec-4eda-b5ca-7d653b440a5e",
+            "siglas": "PVEM",
+            "nombre": "Partido Verde Ecologista de México",
+            "emblema": "storage/img/partidos/pvem.svg",
+            "rgb": "117,169,58",
+            "rgb2": "197,212,121"
+        }
+    },
+    {
+        "id": "08c2ab65-7685-446e-9cb2-dc80b278dcc6",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "1cdc4bbc-c2af-4557-b06b-e580e24fe0e6",
+        "partido_id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+        "distrito_id": "a137f558-0351-48fb-a829-30e65dc86cb7",
+        "diputado": {
+            "id": "1cdc4bbc-c2af-4557-b06b-e580e24fe0e6",
+            "apaterno": "Moya",
+            "amaterno": "Bastón",
+            "nombres": "Martha Amalia",
+            "user_id": "0e66bb83-d6f7-4f11-ac79-121f3a62babe",
+            "user": {
+                "id": "0e66bb83-d6f7-4f11-ac79-121f3a62babe",
+                "email": "martha.moya@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "a137f558-0351-48fb-a829-30e65dc86cb7",
+            "distrito": "XXIX",
+            "municipio_id": "32ed6411-68e3-4fd4-af65-52bdc01ec57e",
+            "municipio": {
+                "id": "32ed6411-68e3-4fd4-af65-52bdc01ec57e",
+                "cabecera": "Naucalpan de Juárez"
+            }
+        },
+        "partido": {
+            "id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+            "siglas": "PAN",
+            "nombre": "Partido Acción Nacional",
+            "emblema": "storage/img/partidos/pan.svg",
+            "rgb": "0,63,162",
+            "rgb2": "101,150,204"
+        }
+    },
+    {
+        "id": "732c3dd2-2048-4b4b-8217-ef978a1a5b80",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "4edabe36-8c66-4f9b-be71-1bffa24899b7",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "ae900414-42f0-4f1c-a5d8-a8c08d7dded8",
+        "diputado": {
+            "id": "4edabe36-8c66-4f9b-be71-1bffa24899b7",
+            "apaterno": "Murillo",
+            "amaterno": "Zavala",
+            "nombres": "Camilo",
+            "user_id": "b9fcb58e-78fb-4a2a-bcf6-8e969acb2e1e",
+            "user": {
+                "id": "b9fcb58e-78fb-4a2a-bcf6-8e969acb2e1e",
+                "email": "camilo.murillo@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "ae900414-42f0-4f1c-a5d8-a8c08d7dded8",
+            "distrito": "XXII",
+            "municipio_id": "5343f49e-e5c9-4f78-9b35-5fc4fd9001aa",
+            "municipio": {
+                "id": "5343f49e-e5c9-4f78-9b35-5fc4fd9001aa",
+                "cabecera": "Ecatepec de Morelos"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "67a3d85b-45ca-4fa4-8220-835c21d254eb",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "a4c13ebc-9727-4f77-90a3-6c59b3e9e9f8",
+        "partido_id": "c1fdb97c-2880-4268-8789-6a95d3769092",
+        "distrito_id": "64202e33-7996-49fe-a8e8-38789b2c69fd",
+        "diputado": {
+            "id": "a4c13ebc-9727-4f77-90a3-6c59b3e9e9f8",
+            "apaterno": "Ortega",
+            "amaterno": "Álvarez",
+            "nombres": "Omar",
+            "user_id": "0a50f3fc-cd95-4c02-89fc-589127659d73",
+            "user": {
+                "id": "0a50f3fc-cd95-4c02-89fc-589127659d73",
+                "email": "omar.ortega@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "64202e33-7996-49fe-a8e8-38789b2c69fd",
+            "distrito": "XXXVIII",
+            "municipio_id": "92ce74ef-2d01-4827-987b-212576a3c378",
+            "municipio": {
+                "id": "92ce74ef-2d01-4827-987b-212576a3c378",
+                "cabecera": "San Francisco Coacalco"
+            }
+        },
+        "partido": {
+            "id": "c1fdb97c-2880-4268-8789-6a95d3769092",
+            "siglas": "PRD",
+            "nombre": "Partido de la Revolución Democrática",
+            "emblema": "storage/img/partidos/prd.svg",
+            "rgb": "240,206,21",
+            "rgb2": "240,206,21"
+        }
+    },
+    {
+        "id": "847a2709-7e02-4003-9e75-bf1e8ba24412",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "acff6811-67b6-4257-9968-949622a2e9d6",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "acff6811-67b6-4257-9968-949622a2e9d6",
+            "apaterno": "Osornio",
+            "amaterno": "Jiménez",
+            "nombres": "Evelyn",
+            "user_id": "3cecaab5-a17d-4c09-b38c-7bc3317efe39",
+            "user": {
+                "id": "3cecaab5-a17d-4c09-b38c-7bc3317efe39",
+                "email": "evelyn.osornio@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "b16a2988-7e47-44fb-b93f-abf78afa71a5",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "8ba3cc79-3a93-4b2e-b41d-2f5f94e3d51b",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "82f1a69a-875a-439b-a180-aa3a3bc6d8e7",
+        "diputado": {
+            "id": "8ba3cc79-3a93-4b2e-b41d-2f5f94e3d51b",
+            "apaterno": "Parra",
+            "amaterno": "Sánchez",
+            "nombres": "David",
+            "user_id": "658423de-4487-4a00-ba04-2c84f4792687",
+            "user": {
+                "id": "658423de-4487-4a00-ba04-2c84f4792687",
+                "email": "david.parra@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "82f1a69a-875a-439b-a180-aa3a3bc6d8e7",
+            "distrito": "XXXII",
+            "municipio_id": "32ed6411-68e3-4fd4-af65-52bdc01ec57e",
+            "municipio": {
+                "id": "32ed6411-68e3-4fd4-af65-52bdc01ec57e",
+                "cabecera": "Naucalpan de Juárez"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "af4a182a-6a55-458e-afe3-445b7783c4bd",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "ad2d90c5-df1f-49bb-b476-02789264106e",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "f83d2ca8-fc51-40bc-bb99-29b99d5f2a67",
+        "diputado": {
+            "id": "ad2d90c5-df1f-49bb-b476-02789264106e",
+            "apaterno": "Quiroz",
+            "amaterno": "Fuentes",
+            "nombres": "Alfredo",
+            "user_id": "549e79c5-a0b5-4b5a-a69b-a7e0f6227aec",
+            "user": {
+                "id": "549e79c5-a0b5-4b5a-a69b-a7e0f6227aec",
+                "email": "alfredo.quiroz@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "f83d2ca8-fc51-40bc-bb99-29b99d5f2a67",
+            "distrito": "XXXV",
+            "municipio_id": "e3d84c51-6ef9-43fd-a213-2d605859f3ef",
+            "municipio": {
+                "id": "e3d84c51-6ef9-43fd-a213-2d605859f3ef",
+                "cabecera": "Metepec"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "604b5582-369f-4a1c-9a4f-8c78b96e4d72",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "743b42c8-f6bf-4ab5-a572-0ba4b7859340",
+        "partido_id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+        "distrito_id": "97d2b164-bb4f-4700-b147-1eb7d7ae0e73",
+        "diputado": {
+            "id": "743b42c8-f6bf-4ab5-a572-0ba4b7859340",
+            "apaterno": "Rojas",
+            "amaterno": "Cano",
+            "nombres": "Francisco Brian",
+            "user_id": "1a5af0d0-b299-41b8-89ed-eb8f1533f2f0",
+            "user": {
+                "id": "1a5af0d0-b299-41b8-89ed-eb8f1533f2f0",
+                "email": "francisco.rojas@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "97d2b164-bb4f-4700-b147-1eb7d7ae0e73",
+            "distrito": "XLIII",
+            "municipio_id": "197c284c-98aa-4ba9-8084-bc0b84e4857e",
+            "municipio": {
+                "id": "197c284c-98aa-4ba9-8084-bc0b84e4857e",
+                "cabecera": "Cuautitlán Izcalli"
+            }
+        },
+        "partido": {
+            "id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+            "siglas": "PAN",
+            "nombre": "Partido Acción Nacional",
+            "emblema": "storage/img/partidos/pan.svg",
+            "rgb": "0,63,162",
+            "rgb2": "101,150,204"
+        }
+    },
+    {
+        "id": "3002dd3c-ec78-4a24-bb7c-a315ec6dde3e",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "10aa56cd-a026-4a12-b109-8463c6358d39",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "c3d39319-1ae1-484d-9d29-c045cb8c02d0",
+        "diputado": {
+            "id": "10aa56cd-a026-4a12-b109-8463c6358d39",
+            "apaterno": "Rojas",
+            "amaterno": "Hernández",
+            "nombres": "Yesica Yanet",
+            "user_id": "4df96450-0045-43ff-9cb2-fb78250336ca",
+            "user": {
+                "id": "4df96450-0045-43ff-9cb2-fb78250336ca",
+                "email": "yesica.rojas@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3d39319-1ae1-484d-9d29-c045cb8c02d0",
+            "distrito": "XXVII",
+            "municipio_id": "ad332d36-a4d1-472f-a1a9-1c739b18da63",
+            "municipio": {
+                "id": "ad332d36-a4d1-472f-a1a9-1c739b18da63",
+                "cabecera": "Xico"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "bd2e7aca-0456-476b-b743-01be1b4aefc4",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "9c05eba4-3afd-41da-a72b-37c6e0abfeff",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "9c05eba4-3afd-41da-a72b-37c6e0abfeff",
+            "apaterno": "Sánchez",
+            "amaterno": "Holguín",
+            "nombres": "María Isabel",
+            "user_id": "9c4a97e3-0b5a-4f6c-aeb9-96e4e3677d2d",
+            "user": {
+                "id": "9c4a97e3-0b5a-4f6c-aeb9-96e4e3677d2d",
+                "email": "isabel.sanchez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "e13f2eb5-851c-48b0-9f23-4a19f1af425c",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "4b723dc2-4da4-41d0-8bdd-7f699875f357",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "4b723dc2-4da4-41d0-8bdd-7f699875f357",
+            "apaterno": "Sánchez",
+            "amaterno": "Coronel",
+            "nombres": "Cristina",
+            "user_id": "a7ab0fe8-3159-43cc-b4b6-27adebc28efb",
+            "user": {
+                "id": "a7ab0fe8-3159-43cc-b4b6-27adebc28efb",
+                "email": "cristina.sanchez@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "cd03ea6e-1b1f-4a49-8d63-1f52f6964e5b",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "bfb52ac5-335a-4592-b94c-364f22ae395e",
+        "partido_id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+        "distrito_id": "7cafe04b-3311-48e7-932e-210df430e9e7",
+        "diputado": {
+            "id": "bfb52ac5-335a-4592-b94c-364f22ae395e",
+            "apaterno": "Santos",
+            "amaterno": "Arreola",
+            "nombres": "Francisco Javier",
+            "user_id": "65bb3487-a206-4b6a-a92b-ba6c49ec782f",
+            "user": {
+                "id": "65bb3487-a206-4b6a-a92b-ba6c49ec782f",
+                "email": "francisco.santos@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "7cafe04b-3311-48e7-932e-210df430e9e7",
+            "distrito": "XXVI",
+            "municipio_id": "197c284c-98aa-4ba9-8084-bc0b84e4857e",
+            "municipio": {
+                "id": "197c284c-98aa-4ba9-8084-bc0b84e4857e",
+                "cabecera": "Cuautitlán Izcalli"
+            }
+        },
+        "partido": {
+            "id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+            "siglas": "PAN",
+            "nombre": "Partido Acción Nacional",
+            "emblema": "storage/img/partidos/pan.svg",
+            "rgb": "0,63,162",
+            "rgb2": "101,150,204"
+        }
+    },
+    {
+        "id": "172c0cea-3237-4548-b9f8-87004eb2083a",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "00d771a4-479a-4656-83b7-87dadb35c9a6",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "00d771a4-479a-4656-83b7-87dadb35c9a6",
+            "apaterno": "Saroné",
+            "amaterno": "Campos",
+            "nombres": "Abraham",
+            "user_id": "19ba73e3-a7a7-410f-a303-6c5c79bde36b",
+            "user": {
+                "id": "19ba73e3-a7a7-410f-a303-6c5c79bde36b",
+                "email": "abraham.sarone@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "3acc9bbd-ca2e-4b66-8c4f-03fe1d16d9b8",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "5b3fab58-c359-448a-ad3d-d060964d4259",
+        "partido_id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "5b3fab58-c359-448a-ad3d-d060964d4259",
+            "apaterno": "Schemelensky",
+            "amaterno": "Castro",
+            "nombres": "Ingrid Krasopani",
+            "user_id": "c2a561e8-1f60-46f5-b156-a7eebb03a9c8",
+            "user": {
+                "id": "c2a561e8-1f60-46f5-b156-a7eebb03a9c8",
+                "email": "ingrid.schemelensky@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+            "siglas": "PAN",
+            "nombre": "Partido Acción Nacional",
+            "emblema": "storage/img/partidos/pan.svg",
+            "rgb": "0,63,162",
+            "rgb2": "101,150,204"
+        }
+    },
+    {
+        "id": "fcad99fd-5d19-44a7-bb69-41a58a98cee3",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "060f8e62-7657-4da8-a35d-971c6270d62b",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "060f8e62-7657-4da8-a35d-971c6270d62b",
+            "apaterno": "Sobreyra",
+            "amaterno": "Santos",
+            "nombres": "María Monserrath",
+            "user_id": "479f1dd4-6457-44c5-bbcf-30b464c05f36",
+            "user": {
+                "id": "479f1dd4-6457-44c5-bbcf-30b464c05f36",
+                "email": "montserrat.sobreyra@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "cabde5ca-f464-4ce1-a142-4773533845d2",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "75118482-fda1-4d7d-b958-e361409747ee",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "99ae2f46-f5a4-4173-b08e-56e1ff66efef",
+        "diputado": {
+            "id": "75118482-fda1-4d7d-b958-e361409747ee",
+            "apaterno": "Ulloa",
+            "amaterno": "Pérez",
+            "nombres": "Gerardo",
+            "user_id": "1566a7cc-ee02-422b-bc06-233d82119cd6",
+            "user": {
+                "id": "1566a7cc-ee02-422b-bc06-233d82119cd6",
+                "email": "gerardo.ulloa@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "99ae2f46-f5a4-4173-b08e-56e1ff66efef",
+            "distrito": "XXV",
+            "municipio_id": "19f4ca11-7638-4ad5-a2e5-284f92746328",
+            "municipio": {
+                "id": "19f4ca11-7638-4ad5-a2e5-284f92746328",
+                "cabecera": "Ciudad Nezahualcóyotl"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    },
+    {
+        "id": "cc29d46c-a49f-40be-b111-8c5b78f6650f",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "ae458e8c-a91a-4d1e-a2c8-14795f64a3cd",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "f457ab6a-000f-4445-91ab-3f8aece7c3dc",
+        "diputado": {
+            "id": "ae458e8c-a91a-4d1e-a2c8-14795f64a3cd",
+            "apaterno": "Urbina",
+            "amaterno": "Salazar",
+            "nombres": "Lilia",
+            "user_id": "27ca68c7-963d-4866-9d92-18011d10494d",
+            "user": {
+                "id": "27ca68c7-963d-4866-9d92-18011d10494d",
+                "email": "lilia.urbina@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "f457ab6a-000f-4445-91ab-3f8aece7c3dc",
+            "distrito": "XXXIII",
+            "municipio_id": "00c87e05-a1d6-444d-a12b-26ef1e880e6f",
+            "municipio": {
+                "id": "00c87e05-a1d6-444d-a12b-26ef1e880e6f",
+                "cabecera": "Tecámac de Felipe Villanueva"
+            }
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "bb10dffd-f443-42cb-8508-c9e362eff2bd",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "e8520b58-970a-4a2b-970e-a08eb397a36a",
+        "partido_id": "d473bf09-668a-4c52-ae5d-9e14621bb693",
+        "distrito_id": "d77a0d9a-fbc4-4fbf-abfb-6f7a4cc67395",
+        "diputado": {
+            "id": "e8520b58-970a-4a2b-970e-a08eb397a36a",
+            "apaterno": "Vargas",
+            "amaterno": "Cervantes",
+            "nombres": "Rigoberto",
+            "user_id": "2078e82e-8019-4da7-8206-35f066c99d9f",
+            "user": {
+                "id": "2078e82e-8019-4da7-8206-35f066c99d9f",
+                "email": "rigoberto.vargas@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "d77a0d9a-fbc4-4fbf-abfb-6f7a4cc67395",
+            "distrito": "XX",
+            "municipio_id": "a4015828-bd6f-4cd8-80bd-609a9287a538",
+            "municipio": {
+                "id": "a4015828-bd6f-4cd8-80bd-609a9287a538",
+                "cabecera": "Zumpango de Ocampo"
+            }
+        },
+        "partido": {
+            "id": "d473bf09-668a-4c52-ae5d-9e14621bb693",
+            "siglas": "Sin partido",
+            "nombre": "",
+            "emblema": "storage/img/partidos/sin_partido.svg",
+            "rgb": "124,124,122",
+            "rgb2": "124,124,122"
+        }
+    },
+    {
+        "id": "5602bc89-e8a8-4451-a5ab-e2957d86d7be",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "1397a09f-fe42-40b8-bdad-930b8648f0dc",
+        "partido_id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "1397a09f-fe42-40b8-bdad-930b8648f0dc",
+            "apaterno": "Vargas",
+            "amaterno": "Del Villar",
+            "nombres": "Enrique",
+            "user_id": "3e8cb8b7-ab2e-41a1-80ef-2af02ee18efa",
+            "user": {
+                "id": "3e8cb8b7-ab2e-41a1-80ef-2af02ee18efa",
+                "email": "enrique.vargas@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "16db3ac6-ca98-4d5f-b00a-d5ff6e8d828c",
+            "siglas": "PAN",
+            "nombre": "Partido Acción Nacional",
+            "emblema": "storage/img/partidos/pan.svg",
+            "rgb": "0,63,162",
+            "rgb2": "101,150,204"
+        }
+    },
+    {
+        "id": "657ba748-8f33-4d7f-8da7-a0e1b289d5af",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "c1d1eb5f-21fa-4d92-b37d-0a59669e0b3d",
+        "partido_id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "c1d1eb5f-21fa-4d92-b37d-0a59669e0b3d",
+            "apaterno": "Zamacona",
+            "amaterno": "Urquiza",
+            "nombres": "Guillermo",
+            "user_id": "ba24c9fa-2f67-4077-966d-e9f5485c5db9",
+            "user": {
+                "id": "ba24c9fa-2f67-4077-966d-e9f5485c5db9",
+                "email": "guillermo.zamacona@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "7d2af11b-ed98-43f9-b7a9-a449c459cdf5",
+            "siglas": "PRI",
+            "nombre": "Partido Revolucionario Institucional",
+            "emblema": "storage/img/partidos/pri.svg",
+            "rgb": "186,11,19",
+            "rgb2": "0,144,69"
+        }
+    },
+    {
+        "id": "6bd1468f-4512-474b-83d1-cb11fc0dcca5",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "b740a958-5130-4566-b461-b70955b2685c",
+        "partido_id": "c6981a10-cc1f-4e3a-a08d-603485b0fc7c",
+        "distrito_id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+        "diputado": {
+            "id": "b740a958-5130-4566-b461-b70955b2685c",
+            "apaterno": "Zepeda",
+            "amaterno": "Hernández",
+            "nombres": "Martín",
+            "user_id": "df3aeffc-affe-402c-ab9b-cd2250eac013",
+            "user": {
+                "id": "df3aeffc-affe-402c-ab9b-cd2250eac013",
+                "email": "martin.zepeda@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "c3e3f1a8-d5a5-4ba8-8157-e57f261fd530",
+            "distrito": "Plurinominal",
+            "municipio_id": null,
+            "municipio": null
+        },
+        "partido": {
+            "id": "c6981a10-cc1f-4e3a-a08d-603485b0fc7c",
+            "siglas": "MC",
+            "nombre": "Partido Movimiento Ciudadano",
+            "emblema": "storage/img/partidos/mc.svg",
+            "rgb": "234,130,21",
+            "rgb2": "234,130,21"
+        }
+    },
+    {
+        "id": "46ec83a1-28a1-45bf-8798-932ed454e941",
+        "legislatura_id": "afad35f0-39f5-4ece-826d-b4020381e14a",
+        "dato_user_id": "8878e4bd-e21b-4700-a187-75b4d148344f",
+        "partido_id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+        "distrito_id": "be051c2f-f913-4db8-98af-003079c5bc49",
+        "diputado": {
+            "id": "8878e4bd-e21b-4700-a187-75b4d148344f",
+            "apaterno": "Zetina",
+            "amaterno": "González",
+            "nombres": "Rosa María",
+            "user_id": "013c73a2-44f7-4bf2-a312-7b7361c4df4c",
+            "user": {
+                "id": "013c73a2-44f7-4bf2-a312-7b7361c4df4c",
+                "email": "rosa.zetina@legislativoedomex.gob.mx"
+            }
+        },
+        "distrito": {
+            "id": "be051c2f-f913-4db8-98af-003079c5bc49",
+            "distrito": "XL",
+            "municipio_id": "d2e1f8e4-d1f5-4863-8781-a15946e69e9f",
+            "municipio": {
+                "id": "d2e1f8e4-d1f5-4863-8781-a15946e69e9f",
+                "cabecera": "Ixtapaluca"
+            }
+        },
+        "partido": {
+            "id": "947b16d0-1803-4c64-be3f-7b4e83a60480",
+            "siglas": "Morena",
+            "nombre": "Partido Morena",
+            "emblema": "storage/img/partidos/morena.svg",
+            "rgb": "152,52,53",
+            "rgb2": "152,52,53"
+        }
+    }
+]
