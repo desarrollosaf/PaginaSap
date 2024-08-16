@@ -24,7 +24,12 @@ export const routes: Routes = [
                 path: 'diputadasydiputados',
                 title: 'Diputados',
                 loadComponent: () => import('./dashboard/pages/diputados/diputados.component'),
-            }
+            },
+            {
+                path: 'distritos',
+                title: 'Distritos',
+                loadComponent: () => import('./dashboard/pages/distritos/distritos.component')
+            },
 
         ]
        
