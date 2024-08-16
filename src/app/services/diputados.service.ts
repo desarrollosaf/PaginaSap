@@ -23,14 +23,13 @@ export class DiputadosService {
   public loading =  computed( () => this.#state().loading );
 
   constructor() {
-    this.http.get<Diputados>('http://pleno.test/api/getDipAsc').subscribe( res => {
-      console.log(res)
+    this.http.get<Diputados[]>('http://pleno.test/api/getDipAsc').subscribe( res => {
       this.#state.set({
         loading : false,
         diputados : res
       })
     })
-   
+
    }
 
 }
