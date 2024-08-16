@@ -12,6 +12,8 @@ export default class DiputadosComponent {
   public diputadosService  =  inject( DiputadosService )
 
   constructor() {
+   
+    
     //console.log(this.diputadosService.diputados().findIndex)
 
   }

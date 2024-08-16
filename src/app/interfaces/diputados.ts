@@ -5,9 +5,9 @@ export interface Diputados {
   dato_user_id:   string;
   partido_id:     string;
   distrito_id:    string;
-  diputado:       Diputado[];
-  distrito:       Distrito[];
-  partido:        Partido[];
+  diputado:       Diputado;
+  distrito:       Distrito;
+  partido:        Partido;
 }
 
 
@@ -17,7 +17,7 @@ export interface Diputado {
   amaterno: string;
   nombres:  string;
   user_id:  string;
-  user:     User[];
+  user:     User;
 }
 
 export interface User {
@@ -29,7 +29,7 @@ export interface Distrito {
   id:           string;
   distrito:     string;
   municipio_id: null | string;
-  municipio:    Municipio[] | null;
+  municipio:    Municipio | null;
 }
 
 export interface Municipio {
