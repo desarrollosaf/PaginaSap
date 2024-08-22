@@ -19,73 +19,83 @@
         
    
 
-    <div style="font-family: 'Arimo', sans-serif;font-weight: 300;">
+        <div style="font-family: 'Arimo', sans-serif;font-weight: 300;">
 
-        <div style="text-align: center; width: 140px; float: left;">
-            <div
-                style="">
-                <div style="background: rgba(255,255,255); border-radius: 50%; height: 130px; width: 130px;">
-                    <div
-                        style="background: url() no-repeat; background-size: 130px; width: 130px; height: 130px; float: left; border-radius:50%;"></div>
-                    <div style="clear: both;"></div>
+            <div style="text-align: center; width: 140px; float: left;">
+                <div
+                    style="">
+                    <div style="background: rgba(255,255,255); border-radius: 50%; height: 130px; width: 130px;">
+                        <div
+                            style="background: url() no-repeat; background-size: 130px; width: 130px; height: 130px; float: left; border-radius:50%;"></div>
+                        <div style="clear: both;"></div>
+                    </div>
                 </div>
+                <div style="clear: both;"></div>
+                <img src="https://legislacion.legislativoedomex.gob.mx/{{ diputado.partido.emblema }}"
+                    style="height: 45px; margin: 5px auto;">
             </div>
-            <div style="clear: both;"></div>
-            <img src=""
-                 style="height: 45px; margin: 5px auto;">
-        </div>
-        <!-- FIN FOTO -->
+            <!-- FIN FOTO -->
 
-        <!-- DATOS -->
-        <div
-            style="float: left; font-size: 1.2em; font-weight: 800; font-family: font-family: 'Arimo', sans-serif; color: rgba(57,57,59,1.00); text-align: left; padding: 2px; margin: 35px 25px;">
-            {{ diputado.diputado.nombres }}
-            {{ diputado.diputado.apaterno }}
-            {{ diputado.diputado.amaterno }}
-            <br>
-            <span style="color: rgb(100,100,100); font-size: 0.8em; font-weight: 300;">
-         
-        </span>
-            <br>
+            <!-- DATOS -->
+            <div
+                style="float: left; font-size: 1.2em; font-weight: 800; font-family: font-family: 'Arimo', sans-serif; color: rgba(57,57,59,1.00); text-align: left; padding: 2px; margin: 35px 25px;">
+                {{ diputado.diputado.nombres }}
+                {{ diputado.diputado.apaterno }}
+                {{ diputado.diputado.amaterno }}
+                <br>
+                <span style="color: rgb(100,100,100); font-size: 0.8em; font-weight: 300;">
+                    @if ( diputado.distrito.distrito == "plurinom") {
+                        Representación Proporcional
 
-            <span style="color: rgb(137,138,141); font-size: 0.8em; font-weight: 300;">
+                    } @else {
+                        Distrito {{ diputado.distrito.distrito }} - {{ diputado.distrito.municipio!.cabecera }}
+                    }
+
+            </span>
+                <br>
+
+                <span style="color: rgb(137,138,141); font-size: 0.8em; font-weight: 300;">
+                    {{ diputado.partido.nombre }}
+                    {{ diputado.partido.siglas }}
+                </span><br>
+                @if(diputado.diputado.user!.email){
+                    <span style="color: rgb(137,138,141); font-size: 0.8em; font-style: italic; font-weight: 300;">
+                    <i class="fas fa-envelope-open-text"></i>
+                    {{ diputado.diputado.user.email}}
+                    </span><br>
+
+                }
+
                 
-            </span><br>
-           
-
-                <span style="color: rgb(137,138,141); font-size: 0.8em; font-style: italic; font-weight: 300;">
-                <i class="fas fa-envelope-open-text"></i>
-               
-            </span><br>
-           
-        <!-- FACEBOOK -->
-           
-                <a href="http://facebook.com/" target="_blank"
-                   style="text-decoration: none; color: rgba(150,0,72,1.00); font-size: 0.8em; font-weight: 300;"><i
-                        class="fab fa-facebook"></i> </a><br>
-          
-
-        <!-- TWITTER -->
             
-                <a href="http://twitter.com/" target="_blank"
-                   style="text-decoration: none; color: rgba(150,0,72,1.00); font-size: 0.8em; font-weight: 300;"><i
-                        class="fab fa-twitter"></i> </a><br>
-           
+            <!-- FACEBOOK -->
+            
+                    <a href="http://facebook.com/" target="_blank"
+                    style="text-decoration: none; color: rgba(150,0,72,1.00); font-size: 0.8em; font-weight: 300;"><i
+                            class="fab fa-facebook"></i> </a><br>
+            
 
-        <!-- INSTAGRA, -->
-           
-                <a href="http://instagram.com/" target="_blank"
-                   style="text-decoration: none; color: rgba(150,0,72,1.00); font-size: 0.8em; font-weight: 300;"><i
-                        class="fab fa-instagram"></i> </a><br>
-       
+            <!-- TWITTER -->
+                
+                    <a href="http://twitter.com/" target="_blank"
+                    style="text-decoration: none; color: rgba(150,0,72,1.00); font-size: 0.8em; font-weight: 300;"><i
+                            class="fab fa-twitter"></i> </a><br>
+            
 
-        <!--<button onclick="location.href='ficha'" style="font-size: 0.6em;">Ver ficha</button>-->
+            <!-- INSTAGRA, -->
+            
+                    <a href="http://instagram.com/" target="_blank"
+                    style="text-decoration: none; color: rgba(150,0,72,1.00); font-size: 0.8em; font-weight: 300;"><i
+                            class="fab fa-instagram"></i> </a><br>
+        
 
-            <div style="height: 20px;"></div>
+            <!--<button onclick="location.href='ficha'" style="font-size: 0.6em;">Ver ficha</button>-->
+
+                <div style="height: 20px;"></div>
+            </div>
+            <div style="clear: both; height: 20px;"></div>
+            <!-- FIN DATOS -->
+
+    
         </div>
-        <div style="clear: both; height: 20px;"></div>
-        <!-- FIN DATOS -->
-
-  
-    </div>
     }
