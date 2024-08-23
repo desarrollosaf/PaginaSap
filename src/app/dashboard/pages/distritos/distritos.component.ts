@@ -1,4 +1,4 @@
-import { Component, inject } from '@angular/core';
+import { Component, inject, Input } from '@angular/core';
 import { DistritosService } from '@services/distritos.service';
 
 @Component({
@@ -10,7 +10,12 @@ import { DistritosService } from '@services/distritos.service';
 })
 export default class DistritosComponent {
   public distritosService  =  inject( DistritosService )
-
+  @Input() bandera:boolean=false;
+  
   constructor(){
   } 
+
+  setBandera(){
+    this.bandera = true;
+  }
 }
