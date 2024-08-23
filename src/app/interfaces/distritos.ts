@@ -15,6 +15,9 @@ export interface Diputado {
     amaterno: string;
     nombres:  string;
     user_id:  string;
+    facebook:  string;
+    twitter:  string;
+    instagram:  string;
     foto:     Foto;
     user:     User;
 }
