@@ -1,0 +1,37 @@
+<h1>Comisiones y comités</h1>
+    <div style="height: 30px; clear: both;"></div>
+
+    <a href="#ordinarias"><i class="fas fa-users"></i> Comisiones Legislativas</a> - <a href="#especiales">
+        <i class="fas fa-users"></i> Comisiones Especiales</a> - <a href="#comites"><i class="fas fa-users"></i> Comités</a>
+
+ 
+        <a> <button >Orden alfabético</button></a>
+        <a> <button >Orden legal</button></a>
+
+        <div style="height: 30px; clear: both;"></div>
+
+        <div style="height: 30px; clear: both;"></div>
+        <h2>Comisiones Legislativas</h2>
+
+             
+
+    @for(comision of comisionesService.comisiones(); track comision.id; let idx = $index, e = $even){
+     
+
+            <p>{{ comision.nombre }}</p>
+              
+       
+    }
+
+
+    @for(comision of comisionesService.comisionesE(); track comision.id; let idx = $index, e = $even){
+     
+
+        <p>{{ comision.nombre }}</p>
+          
+   
+    }
+
+
+ 
+

@@ -28,7 +28,10 @@ export class DiputadosService {
         loading : false,
         diputados : res
       })
+      console.log(res)
+      console.log(this.#state().diputados)
     })
+    
   
    }
 

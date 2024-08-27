@@ -1,0 +1,752 @@
+{
+    "2": [
+        {
+            "id": "4d40b93e-29b2-4101-9402-d0586af0c62d",
+            "nombre": "Mesa Directiva del Segundo Mes del Segundo Periodo Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional",
+            "importancia": null,
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "9f493288-bf55-47d1-b7ff-2df142a2a850",
+            "nombre": "Mesa Directiva del Primer Mes del Segundo Periodo Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional",
+            "importancia": null,
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "70471a4c-680a-421f-876b-f63a1cfd9c8d",
+            "nombre": "Gobernación y Puntos Constitucionales",
+            "importancia": "1",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "43ed2507-a982-41d2-80e7-061f8b9279dc",
+            "nombre": "Protección Ambiental y Cambio Climático",
+            "importancia": "10",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "aace85e4-ddd3-4be2-ac66-239414514ff4",
+            "nombre": "Desarrollo Económico, Industrial, Comercial y Minero",
+            "importancia": "11",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "09ecef84-f1ce-4292-bc13-054a491c1355",
+            "nombre": "Comunicaciones y Transportes",
+            "importancia": "12",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "b526384c-34da-4159-98bb-632936f09bd6",
+            "nombre": "Derechos Humanos",
+            "importancia": "13",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "aff4192d-2c31-4190-b949-ec00990aac42",
+            "nombre": "Salud, Asistencia y Bienestar Social",
+            "importancia": "14",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "533eee2c-be0f-41cd-87b6-44a9e31036d6",
+            "nombre": "Seguridad Pública y Tránsito",
+            "importancia": "15",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "56eda981-e593-434d-8903-6e4fbf14dbd4",
+            "nombre": "Electoral y de Desarrollo Democrático",
+            "importancia": "16",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "07b88662-4820-4d20-b7d6-d5b0b860447f",
+            "nombre": "Patrimonio Estatal y Municipal",
+            "importancia": "17",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "10928680-feaf-40ca-9b48-73b92da4fd88",
+            "nombre": "Desarrollo Turístico y Artesanal",
+            "importancia": "18",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "39ba27f4-4404-4018-9487-7a37f671d90b",
+            "nombre": "Asuntos Metropolitanos",
+            "importancia": "19",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "cfad6876-1593-4405-ad9c-bf4f73a1d60c",
+            "nombre": "Legislación y Administración Municipal",
+            "importancia": "2",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "880ad788-ff48-40f7-bd19-a5ccd08dbcf3",
+            "nombre": "Vigilancia del Órgano Superior de Fiscalización",
+            "importancia": "20",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "78e86e80-d3b0-4892-b644-ceaee71729e0",
+            "nombre": "Asuntos Indígenas",
+            "importancia": "21",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "ba4b282f-1d48-45c0-a027-b855885cf45a",
+            "nombre": "Gestión Integral de Riesgos y Protección Civil",
+            "importancia": "22",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "3a0f40c2-b831-4b9d-ac00-d3daf07c34ff",
+            "nombre": "Atención de Grupos Vulnerables",
+            "importancia": "23",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "9a693d3d-fa12-4a18-8f50-cc74ba8cbccb",
+            "nombre": "Desarrollo y Apoyo Social",
+            "importancia": "24",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "83c5d239-0401-4d7a-b65c-f9d627173be6",
+            "nombre": "Límites Territoriales del Estado de México y sus Municipios",
+            "importancia": "25",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "b4ccc6fc-71e5-4a4d-a738-5b340c5ebdcc",
+            "nombre": "Igualdad de Género",
+            "importancia": "26",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "3a2ac503-d4fb-402c-a39b-02298f84598c",
+            "nombre": "Seguimiento de la Operación de Proyectos para Prestación de Servicios",
+            "importancia": "27",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "b1c40dd2-0df4-4fa7-9e98-4abdd8c58569",
+            "nombre": "Juventud y el Deporte",
+            "importancia": "28",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "674a6b34-4cae-47c5-84f3-dcdb7e63d635",
+            "nombre": "Finanzas Públicas",
+            "importancia": "29",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "13892859-3590-444b-ad94-492659f49936",
+            "nombre": "Procuración y Administración de Justicia",
+            "importancia": "3",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "a2159a0e-8497-4341-b730-c500224b955c",
+            "nombre": "Recursos Hidráulicos",
+            "importancia": "30",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "4b3662d2-418b-428b-908c-858fd3e214e5",
+            "nombre": "Apoyo y Atención a las Personas Migrantes",
+            "importancia": "31",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "9d7fe09a-dd13-482d-8a22-aca933004a17",
+            "nombre": "Participación Ciudadana",
+            "importancia": "32",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "f043dbf9-454d-4f18-913a-b7309e800bf6",
+            "nombre": "Asuntos Internacionales",
+            "importancia": "33",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "8e273343-a3c9-46b2-89f4-2ebce4b12ec8",
+            "nombre": "Transparencia, Acceso a la Información Pública y Protección de Datos Personales.",
+            "importancia": "34",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "022e882e-6ddc-400d-b20a-3731ec7718e7",
+            "nombre": "Familia y Desarrollo Humano",
+            "importancia": "35",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "aa4b1b33-77d9-466f-902c-ab7faee54fee",
+            "nombre": "Declaratorias de Alerta de Violencia de Género contra las Mujeres por Feminicidio y Desaparición",
+            "importancia": "36",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "aceb1b0d-ad44-4f80-8612-41817361d274",
+            "nombre": "Mesa Directiva del Cuarto Mes del Segundo Periodo Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional",
+            "importancia": "37",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "7e8e7a6e-517d-4477-9cb9-b68e6a3fea63",
+            "nombre": "Diputación Permanente del Segundo Período de Receso del Segundo Año",
+            "importancia": "38",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "7c028c03-412f-4dd1-ae55-40e23f7339e2",
+            "nombre": "Junta de Coordinación Política (Jucopo)",
+            "importancia": "39",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "add25ee6-291d-409a-a569-d6dcaaba6225",
+            "nombre": "Planeación y Gasto Público",
+            "importancia": "4",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "692c69ce-4498-4e69-a882-e65a90e1a35a",
+            "nombre": "Mesa Directiva del Segundo Mes del Segundo Periodo Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional",
+            "importancia": "40",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "4d001fcf-894b-440d-bdc7-553b9d2b64fd",
+            "nombre": "Mesa Directiva del Tercer Mes del Primer Periodo Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional ",
+            "importancia": "41",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "2a7cde1f-1eb9-47d1-9741-02c5da6b6240",
+            "nombre": "Diputación Permanente del 2do. Periodo de Receso del 1er. Año",
+            "importancia": "42",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "270187ff-504f-418b-ba86-913e86e3edc5",
+            "nombre": "Mesa Directiva del primer mes del Primer Periodo Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional",
+            "importancia": "43",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "114f6818-0c0b-4d0c-86b8-b5a1716eefc8",
+            "nombre": "Mesa Directiva del Tercer Mes del Segundo Periodo Ordinario de Sesiones del Segundo Año de Ejercicio Constitucional",
+            "importancia": "44",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "ba43b1d2-f541-4e35-8d30-e70896067873",
+            "nombre": "Mesa Directiva del Segundo Mes del Primer Periodo Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional",
+            "importancia": "45",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "d61408f2-adc0-431f-af33-da09b60cfe39",
+            "nombre": "Mesa Directiva del Primer Mes del Primer Periodo Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional",
+            "importancia": "46",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "3c6618b3-a26c-4d07-a4df-35cc4f35b657",
+            "nombre": "Mesa Directiva del Cuarto Mes del Primer Periodo Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional",
+            "importancia": "47",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "0a335c1b-2bf4-48c4-adfb-d3d35a82453d",
+            "nombre": "Trabajo, Previsión y Seguridad Social",
+            "importancia": "5",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "9944bec3-cdf9-4662-8cec-f2e4e080edde",
+            "nombre": "Educación, Cultura, Ciencia y Tecnología",
+            "importancia": "6",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "b9f2a074-7a26-418b-850a-01fb4e6dda02",
+            "nombre": "Desarrollo Urbano",
+            "importancia": "7",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "4104152e-572b-4a68-99c8-3587b2105db7",
+            "nombre": "Planificación Demográfica",
+            "importancia": "8",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "425f881a-e3df-41f2-bd17-5b7e03758460",
+            "nombre": "Desarrollo Agropecuario y Forestal",
+            "importancia": "9",
+            "tipo_comision_id": "d58660e6-1412-41b3-9021-05c68a265fca",
+            "tipo": {
+                "id": "d58660e6-1412-41b3-9021-05c68a265fca",
+                "valor": "2",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        }
+    ],
+    "0": [
+        {
+            "id": "ca985c16-1775-482d-adce-9b8a7908b8a7",
+            "nombre": "Diputación Permanente del segundo Período de Receso del Tercer Año",
+            "importancia": null,
+            "tipo_comision_id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+            "tipo": {
+                "id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+                "valor": "0",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "07178fde-77eb-45c7-b4b8-bccbbf9dd577",
+            "nombre": "Administración",
+            "importancia": "1",
+            "tipo_comision_id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+            "tipo": {
+                "id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+                "valor": "0",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "805f802c-d647-47f5-bada-41ade7b6a10c",
+            "nombre": "Estudios Legislativos",
+            "importancia": "2",
+            "tipo_comision_id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+            "tipo": {
+                "id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+                "valor": "0",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "6e33955b-71d3-40be-b0f1-000bf8bfff51",
+            "nombre": "Comunicación Social",
+            "importancia": "3",
+            "tipo_comision_id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+            "tipo": {
+                "id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+                "valor": "0",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "c981d5cd-b285-433e-bcfd-35eb6e4e2c47",
+            "nombre": "Vigilancia de la Contraloría",
+            "importancia": "4",
+            "tipo_comision_id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+            "tipo": {
+                "id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+                "valor": "0",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "fcf50bf1-d19a-41d5-8e53-c073a74a4886",
+            "nombre": "Editorial y de Biblioteca",
+            "importancia": "5",
+            "tipo_comision_id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+            "tipo": {
+                "id": "0def702b-81fe-43a9-abf0-faa8aeae59a1",
+                "valor": "0",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        }
+    ],
+    "1": [
+        {
+            "id": "c4ff40b2-1633-41a8-9f54-d687dba2f916",
+            "nombre": "Comisión Especial de Amnistía",
+            "importancia": "1",
+            "tipo_comision_id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+            "tipo": {
+                "id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+                "valor": "1",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "2854c4c7-1ec3-4ff2-9aef-07e95a695128",
+            "nombre": "Comisión Especial del Seguimiento al Secretariado Técnico para el Análisis y Estudio de la Reforma Constitucional y Legal del Estado de México",
+            "importancia": "2",
+            "tipo_comision_id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+            "tipo": {
+                "id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+                "valor": "1",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "597f2f21-121b-4549-9344-8e0325e8f3cb",
+            "nombre": "Comisión Especial del Sistema Penitenciario",
+            "importancia": "3",
+            "tipo_comision_id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+            "tipo": {
+                "id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+                "valor": "1",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "bb58e713-869b-4dc6-a46b-f83af3d0c4b7",
+            "nombre": "Comisión Especial para el Desarrollo del Sistema Aeroportuario",
+            "importancia": "4",
+            "tipo_comision_id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+            "tipo": {
+                "id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+                "valor": "1",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "d267afde-85ec-4eb3-bbf7-bffaa5614e5b",
+            "nombre": "Comisión Especial de Seguimiento a la Recuperación Económica",
+            "importancia": "5",
+            "tipo_comision_id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+            "tipo": {
+                "id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+                "valor": "1",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "47f830c7-8663-4bb6-8780-96c01939baab",
+            "nombre": "Comisión Especial de Seguimiento de la Agenda 20-30 para el Desarrollo Sostenible",
+            "importancia": "6",
+            "tipo_comision_id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+            "tipo": {
+                "id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+                "valor": "1",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        },
+        {
+            "id": "f3aaf398-8573-4565-a3b9-07a134371621",
+            "nombre": "Comisión Especial de los Derechos de las Niñas, Niños, Adolescentes y la Primera Infancia",
+            "importancia": "7",
+            "tipo_comision_id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+            "tipo": {
+                "id": "84cfafbb-0527-4ac8-a95e-f795456b9bfa",
+                "valor": "1",
+                "created_at": "2022-11-17T12:45:19.000000Z",
+                "updated_at": "2022-11-17T12:45:19.000000Z"
+            }
+        }
+    ]
+}
