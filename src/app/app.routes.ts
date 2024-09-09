@@ -35,6 +35,11 @@ export const routes: Routes = [
                 title: 'Comisiones',
                 loadComponent: () => import('./dashboard/pages/comisiones/comisiones.component')
             },
+            {
+                path: 'comision/:id',
+                title: 'Comisiones',
+                loadComponent: () => import('./dashboard/pages/comision/comision.component')
+            },
 
         ]
        

@@ -68,7 +68,7 @@
                     <li><a href="pages/diputadasydiputados">Diputadas/os</a></li>
                     <li><a href="pages/distritos">Por principio de elección</a></li>
                     <li>
-                        <a href="">Directiva</a>
+                        <a [routerLink]="['/pages/comision',1]">Directiva</a>
                     </li>
                     <li><a href="">Grupos Parlamentarios</a></li>
                     <li><a
@@ -106,11 +106,10 @@
                         <ul class="dropdown">
                             <li class="menu"><a href="pages/diputadasydiputados">Diputadas/os</a></li>
                             <li><a href="pages/distritos">Por principio de elección</a></li>
-                            <li><a href="">Directiva</a></li>
+                            <li><a [routerLink]="['/pages/comision',1]">Directiva</a></li>
                             <li><a href="">Grupos Parlamentarios</a></li>
                             
-                            <li class="menu"><a
-                                    href="">Junta de Coordinación Política</a></li>
+                            <li class="menu"><a [routerLink]="['/pages/comision',2]">Junta de Coordinación Política</a></li>
                             <li><a href="pages/comisiones">Comisiones y Comités</a></li>
                         </ul>
                     </li>

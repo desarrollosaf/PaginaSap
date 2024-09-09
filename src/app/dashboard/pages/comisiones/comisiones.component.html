@@ -15,22 +15,44 @@
 
              
 
-    @for(comision of comisionesService.comisiones(); track comision.id; let idx = $index, e = $even){
-     
-
-            <p>{{ comision.nombre }}</p>
-              
-       
+    @for(comision of comisionesService.comisionesL(); track comision.id; let idx = $index, e = $even){
+        <a [routerLink]="['/pages/comision', comision.id]">
+            <div class="bloque_ley">
+                <div class="icon_pdf"><i class="fas fa-users"></i></div>
+                <div class="ley_name">{{ comision.nombre}}</div>
+                <div style="clear: both;"></div>
+            </div>
+            <div style="clear: both;"></div>
+        </a>
     }
 
-
+    <div style="height: 30px; clear: both;"></div>
+    <h2>Comisiones Especiales</h2>
     @for(comision of comisionesService.comisionesE(); track comision.id; let idx = $index, e = $even){
-     
-
-        <p>{{ comision.nombre }}</p>
-          
-   
+        <a [routerLink]="['/pages/comision', comision.id]">
+            <div class="bloque_ley">
+                <div class="icon_pdf"><i class="fas fa-users"></i></div>
+                <div class="ley_name">{{ comision.nombre}}</div>
+                <div style="clear: both;"></div>
+            </div>
+            <div style="clear: both;"></div>
+        </a>
     }
+
+    <div style="height: 30px; clear: both;"></div>
+    <h2>Comités Permanentes</h2>
+    @for(comision of comisionesService.comisionesP(); track comision.id; let idx = $index, e = $even){
+        <a [routerLink]="['/pages/comision', comision.id]">
+            <div class="bloque_ley">
+                <div class="icon_pdf"><i class="fas fa-users"></i></div>
+                <div class="ley_name">{{ comision.nombre}}</div>
+                <div style="clear: both;"></div>
+            </div>
+            <div style="clear: both;"></div>
+        </a>
+    }
+
+
 
 
  
