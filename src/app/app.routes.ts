@@ -40,6 +40,11 @@ export const routes: Routes = [
                 title: 'Comisiones',
                 loadComponent: () => import('./dashboard/pages/comision/comision.component')
             },
+            {
+                path: 'debates',
+                title: 'Debates',
+                loadComponent: () => import('./dashboard/pages/debates/debates.component')
+            },
 
         ]
        
