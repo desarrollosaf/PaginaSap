@@ -1,1 +1,10 @@
-<p>debates works!</p>
+@for(comision of debatesService.debates(); track comision.id; let idx = $index, e = $even){
+    
+        <div class="bloque_ley">
+            <div class="icon_pdf"><i class="fas fa-users"></i></div>
+            <div class="ley_name">{{ comision.descripcion }}</div>
+            <div style="clear: both;"></div>
+        </div>
+        <div style="clear: both;"></div>
+    
+}

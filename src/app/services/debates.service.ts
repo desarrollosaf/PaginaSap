@@ -12,6 +12,7 @@ interface State{
 @Injectable({
   providedIn: 'root'
 })
+
 export class DebatesService {
   private http = inject( HttpClient );
 
@@ -26,7 +27,10 @@ export class DebatesService {
 
   constructor() {
     this.http.get<Debates>('http://pleno.test/api/debates').subscribe( res => {
-     
+      console.log(res.Tomos.Tomo1)
+
+   
+
       this.#state.set({
         loading : false,
         debates : res.Tomos.Tomo1,

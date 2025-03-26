@@ -12,7 +12,7 @@ export default class DebatesComponent {
   public debatesService  =  inject( DebatesService )
 
   constructor() {
-
+    console.log(this.debatesService.debates());
 
   }
 
