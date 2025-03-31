@@ -18,6 +18,8 @@
   <link href="../../assets/css/style.css" rel="stylesheet" type="text/css">
   <link href="../../assets/css/menu_home.css" rel="stylesheet" type="text/css">
   <link href="../../assets/css/grid.css" rel="stylesheet" type="text/css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
 
   <title>LXII Legislatura del Estado de México</title>
 
@@ -73,10 +75,10 @@
 
     <!-- MENU DESPLEGABLE --->
     <div id="scrolldown">
-      <nav style="width:95%; margin-top:0px;">
+      <nav style="width:100%; margin-top:0px;">
         <a href="">
           <div style="float: left; display: block;"><img
-            src="../../assets/aparlamentarios/img/asuntos_parlamentarios.svg" class="logo"></div>
+            src="../../assets/aparlamentarios/img/LOGO_INESLE.png" class="logo"></div>
         </a>
         <div style="clear: both;"></div>
         <ul class="menu">
@@ -163,6 +165,73 @@
 
   <div style="width: 100%; padding: 0px; background: rgba(255,255,255,1.00);">
 
+    <div class="slider1_container" style="width: 100%; max-width: 1110px; margin: auto; padding: 30px 0px;">
+
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="../../assets/aparlamentarios/img/asuntos_parlamentarios.svg" class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="../../assets/img/banners/amnistia.jpg" class="d-block w-100" alt="...">
+          </div>
+          <div class="carousel-item">
+            <img src="..." class="d-block w-100" alt="...">
+          </div>
+        </div>
+      </div>
+
+      <div class="tab-pane fade show active img-fluid" id="inicio" role="tabpanel"
+           aria-labelledby="inicio-tab">
+        <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleCaptions"
+                    data-bs-slide-to="0" class="active" aria-current="true"
+                    aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions"
+                    data-bs-slide-to="1" aria-label="Slide 2"></button>
+          </div>
+          <div class="carousel-inner s-i">
+            <div class="carousel-item active">
+              <img src="../../assets/aparlamentarios/img/asuntos_parlamentarios.svg" class="img-fluid" alt=""
+                   tabindex="0"
+                   title="Imgen de Proyecto">
+              <div class="carousel-caption d-md-block">
+
+              </div>
+
+            </div>
+            <div class="carousel-item"><a
+              href="https://legislativoedomex.gob.mx/boletin/b7bb693b-34cb-4cf2-980c-d8a52c3ce193"
+              target="_blank">
+              <img width="100%" src="../../assets/img/banners/amnistia.jpg"
+                   class="img-fluid"
+                   alt=""
+                   tabindex="0" title="Imgen de Proyecto"></a>
+              <div class="carousel-caption d-md-block">
+              </div>
+
+            </div>
+
+          </div>
+          <button class="carousel-control-prev" type="button"
+                  data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Anterior</span>
+          </button>
+          <button class="carousel-control-next" type="button"
+                  data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Siguiente</span>
+          </button>
+        </div>
+        <br>
+
+
+        <br>
+      </div>
+
+    </div>
 
     <div style="width: 100%; max-width: 1110px; margin: auto; padding: 30px 0px;">
       <h1>Información de interés</h1>
@@ -199,7 +268,7 @@
 
   <div id="footer">
 
-    <div style="float:left; width:95%; max-width:420px; margin:0px 5% 30px 0px;">
+    <div style="width: 100%; padding: 0px; background: rgba(255,255,255,1.00);">
       <!--<img src="img/congreso_edomex_grayscale.svg" style="height: 85px;">-->
       <h2 class="footer">Secretaría de Asuntos Parlamentarios</h2>
       <p>Av. Lerdo Pte. No. 222, Col. Centro<br>Toluca de Lerdo, Estado de México<br>&copy; </p>
@@ -217,7 +286,6 @@
                              title="YouTube" class="social"><i class="fab fa-youtube"></i></a></div>
     </div>
 
-    <div style="clear:both"></div>
   </div>
 
 </div>

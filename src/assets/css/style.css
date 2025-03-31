@@ -482,7 +482,7 @@ tr:nth-child(odd) {
 }
 
 #footer {
-    width: 90%;
+    width: 100%;
     padding: 80px 5% 30px;
     margin-top: 0px;
     background: rgba(255, 255, 255, 1.00) url(../img/bg_edificio.jpg) 50% 50% no-repeat;
